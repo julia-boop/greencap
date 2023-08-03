@@ -1,0 +1,249 @@
+.main-container-prod{
+    background-color: #181531;
+}
+
+.nav-container-prod{
+    padding-top: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-img-container-prod{
+    width: 50%;
+    padding-left: 15px;
+}
+
+.nav-img-container-prod img{
+    width: 25%;
+}
+
+.nav-link-container-prod{
+    width: 50%;
+}
+
+.nav-link-prod{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.nav-link-prod li{
+    list-style: none;
+}
+
+.nav-link-prod li a {
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+}
+
+.nav-link-prod li a#active{
+    color: #14C38E;
+}
+
+.nav-link-prod li#contact{
+    background-color:#A0ECCE;
+    border-radius: 20px;
+    padding: 5px 15px 5px 15px;
+}
+
+.nav-link-prod li#contact a {
+    color: #181531;
+}
+
+.prod-container{
+    width: 60%;
+    padding: 100px 50px 100px 100px;
+}
+
+.prod-container h5{
+    color: #14C38E;
+    font-size: 1.2rem;
+}
+
+.prod-know-more{
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.prod-know-more h1{
+    font-size: 3rem;
+    font-weight: 400;
+    margin-right: 15px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.prod-join{
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.prod-join img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.prod-join h4{
+    font-weight: 400;
+    font-size: 1.3rem;
+}
+
+/* ==========================PRODUCT DETAIL========================== */
+.product-detail-container{
+    background-image: url('../../../public/items/frame14.png');
+    background-size: cover;
+    background-repeat: no-repeat;     
+}
+
+.product-title-container{
+    padding-top: 70px;
+}
+
+.product-title-container h5{
+    text-align: center;
+    color: #14C38E;
+    font-size: 1.2rem;
+}
+
+.product-title-container h1, .product-title-container p{
+    color: white;
+    text-align: center;
+}
+
+.product-title-container p{
+    padding: 10px 200px 10px 200px;
+}
+
+.product-item-main-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 30px 120px 30px 120px;
+}
+
+.product-item-container{
+    background-color: white;
+    color: black;
+    width: 15%;
+    margin: 30px 40px 30px 40px;
+    padding: 10px 10px 10px 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.product-symbol{
+    display: flex;
+    margin-bottom: 50px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.test{
+    display: flex;
+    margin-left: 5px;
+}
+
+.long-product{
+    width: 20px;
+    background-color: #181531;
+    height: 3px;
+    align-self: flex-start;
+    border-radius: 10px;
+}
+
+.short-product{
+    width: 3px;
+    height: 3px;
+    border-radius: 50%;
+    background-color: #A0ECCE;
+    margin-left: 5px;
+}
+
+.arrow-container{
+    transform: rotate(315deg);
+    margin-right: 5px;
+}
+
+.product-name{
+    justify-self: flex-end;
+}
+
+.product-name h4{
+    margin-bottom: 10px;
+    font-size: 1rem;
+}
+
+.epigraph-container{
+    color: white;
+    text-align: center;
+    padding: 50px 200px 50px 200px;
+}
+
+/* ==========================SERVICE DETAIL========================== */
+
+.service-detail-container{
+    background-color: #F2FAF7;
+}
+
+.service-title-container{
+    padding: 100px;
+    text-align: center;
+}
+
+.service-title-container h5{
+    color: #14C38E;
+    font-size: 1.2rem;
+}
+
+.service-title-container h1{
+    font-weight: 400;
+    margin-bottom: 50px;
+}
+
+.service-title-container p{
+    margin: 0px 200px 0px 200px;
+}
+
+.service-item-container{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 50px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 30px;
+}
+
+.service-item{
+    background-color: white;
+    width: 20%;
+    margin: 30px;
+    padding: 15px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 0px;
+    padding-bottom: 10px;
+    border: 1px solid #A0ECCE;
+    border-radius: 5px;
+}
+
+.service-item p{
+    font-size: 0.85rem;
+}
+
+.service-symbol{
+    width: 50px;
+    height: 50px;
+    border: 20px solid #A0ECCE;
+    border-radius: 50%;
+    background-color: #F2FAF7;
+    position: relative;
+    top: -40px;
+}
+
