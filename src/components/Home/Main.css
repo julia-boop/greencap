@@ -162,7 +162,7 @@ a:hover{
 .text-container{
     width: 100%;
     display: flex;
-    justify-content: end;
+    justify-content: flex-end;
     margin-right: 70px;
 }
 
@@ -329,7 +329,7 @@ a:hover{
 
 .info-img-container{
     display: flex;
-    justify-content: start;
+    justify-content: flex-start;
     padding: 60px 0px 10px 0px;
     border-bottom: 1px solid white;
     margin: 0px 60px 0px 60px;

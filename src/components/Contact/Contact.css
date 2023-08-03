@@ -136,7 +136,7 @@
 
 .btn-form{
     display: flex;
-    justify-content: end;
+    justify-content: flex-end;
     padding-left: 20px;
 }
 

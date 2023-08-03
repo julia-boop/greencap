@@ -11,12 +11,12 @@ export default function Offer() {
                     <button> <a href="/product"> Ver productos </a></button>
                 </div>
                 <div className="offer-img-container">
-                    <img src="/items/frame3.png"></img>
+                    <img src="/items/frame3.png" alt="some"></img>
                 </div>
             </div>
             <div className="service-container"> 
                 <div className="service-img-container">
-                    <img src="/items/frame4.png"></img>
+                    <img src="/items/frame4.png" alt="img"></img>
                 </div>
                 <div className="service-items">
                     <h5>SERVICIOS</h5>

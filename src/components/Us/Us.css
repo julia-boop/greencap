@@ -318,14 +318,14 @@
 .team-member-container{
     display: flex;
     justify-content: space-evenly;
-    align-items: start;
+    align-items: flex-start;
     flex-wrap: wrap;
 }
 
 .team-member{
     display: flex;
     flex-direction: column;
-    justify-content: start;
+    justify-content: flex-start;
     align-items: center;
     width: 40%;
     margin-bottom: 30px;
