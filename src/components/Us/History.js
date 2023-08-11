@@ -5,9 +5,9 @@ export default function History() {
         <div>
             <div className="history-container">
                 <h6>QUIÉNES SOMOS</h6>
-                <h1>Nuestra Historia</h1>
-                <p>Fundada en Septiembre del año 2002 Green Capital SA se dedica desde sus comienzos a ofrecer una amplia gama de servicios financieros adecuándolos a las necesidades de las demandas particulares de los inversores en mercado de capitales.</p>
-                <p>Sus directores con más de 20 años de trayectoria en el mercado financiero local, <b>garantizan las más altas normas de calidad e idoneidad en el manejo de inversiones. </b></p>
+                <h1>Misión y Visión</h1>
+                <p>Brindar a nuestros clientes individuales e institucionales un servicio profesional en la gestión de sus activos financieros de acuerdo a los objetivos definidos, con altos estándares de ética y conducta profesional.</p>
+                <p>Construir y sostener una amplia presencia local y prestigio internacional. Generar relaciones de largo plazo con los clientes a partir del reconocimiento de la calidad y la innovación de las soluciones financieras ofrecidas.</p>
             </div>
             <div className="oval">
                 <h2>Trayectoria <hr width="1" size="20" /> <hr width="1" size="12" /> <hr width="1" size="2" /></h2>

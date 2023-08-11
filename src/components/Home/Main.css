@@ -122,6 +122,21 @@ a:hover{
     opacity: 0.9;
 }
 
+.transform-container{
+    padding: 80px;
+}
+
+.transform-container h1{
+    font-size: 4.5rem;
+    padding-left: 20px;
+    text-transform: uppercase;
+}
+
+.transform-container h1#colored{
+    color: #14C38E;
+
+}
+
 .figure-container{
     padding: 60px 50px 60px 200px;
     display: flex;
@@ -344,6 +359,14 @@ a:hover{
     justify-content: space-between;
     margin: 10px 60px 0px 60px;
     padding: 0px 30px 10px 30px;
+}
+
+.info-items{
+    width: 30%;
+}
+
+.info-items #desc{
+    font-style: italic;
 }
 
 .info-items #u{

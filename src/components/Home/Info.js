@@ -4,8 +4,7 @@ export default function Info() {
     return (
         <div>
             <div className="learn-more-container">
-                <h5>CONTACTO</h5>
-                <h1>Aprende más sobre</h1>
+                <h1>Empezá a invertir hoy a través de</h1>
                 <img src="/items/logo3.png" alt="logo"></img>
                 <button> <a href="/contact"> Contacto </a></button>
             </div>
@@ -21,9 +20,10 @@ export default function Info() {
                         <p>info@greencapital.com.py <br></br>+(595)21 326 7085</p>
                     </div>
                     <div className="info-items">
-                        <p id="u">Ayuda</p>
+                        <p id="desc">Green Capital Casa de Bolsa S.A. es una institución regulada y supervisada por la Comisión Nacional de Valores (CNV) de la República del Paraguay</p>
+                        {/* <p id="u">Ayuda</p>
                         <p id="u">Politicas de Privacidad</p>
-                        <p id="u">Terminos y Condiciones</p>
+                        <p id="u">Terminos y Condiciones</p> */}
                         <br></br>
                         <p id="trademark">© Green Capital, 2023.</p>
                     </div>                        

@@ -33,7 +33,7 @@ export default function Client() {
                         <div class="card-header card-header-c" id="headingTwo">
                         <h2 class="mb-0">
                             <button class="btn btn-link btn-link-c btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                            Coorporate
+                            Corporate
                             </button>
                         </h2>
                         </div>

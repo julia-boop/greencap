@@ -7,7 +7,7 @@ export default function Offer() {
                 <div className="offer-items">
                     <h5>PRODUCTOS</h5>
                     <h1>Nuestra oferta 360</h1>
-                    <h6>Ofrecemos acceso a los productos financieros tanto en el mercado local como en el internacional, con el fin de diversificar su portfolio de inversiones. </h6>
+                    <h6>Ofrecemos acceso a los productos financieros tanto en el mercado local como en el internacional, con el fin de diversificar su portafolio de inversiones. </h6>
                     <button> <a href="/product"> Ver productos </a></button>
                 </div>
                 <div className="offer-img-container">
@@ -21,7 +21,7 @@ export default function Offer() {
                 <div className="service-items">
                     <h5>SERVICIOS</h5>
                     <h1>Consultoría y Desarrollo</h1>
-                    <h6>Nuestro servicio es integral desde la asesoría de compra hasta la posterior evaluación y seguimiento del portfolio de los inversores.</h6>
+                    <h6>Nuestro servicio es integral desde la asesoría de compra hasta la posterior evaluación y seguimiento del portafolio de los inversores.</h6>
                     <button> <a href="/product"> Ver servicios </a></button>
                 </div>
             </div>

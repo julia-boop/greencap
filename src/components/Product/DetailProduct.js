@@ -124,7 +124,7 @@ export default function DetailProduct() {
                 </div>
             </div>
             <div className="epigraph-container">
-                <p>Y una amplia gama de productos financieros tanto en el mercado local como en el internacional, además, realizamos la custodia de los títulos y el pago de servicios de dividendos y renta financiera. </p>
+                <p>Además del acceso a los mercados, realizamos la custodia de los títulos y el pago de servicios de dividendos y renta financiera</p>
             </div>
         </div>
     )

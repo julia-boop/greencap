@@ -5,8 +5,8 @@ export default function ServiceDetail() {
         <div className="service-detail-container">
             <div className="service-title-container">
                 <h5>SERVICIOS</h5>
-                <h1>Control y seguimiento especialista asegurado</h1>
-                <p>Nuestros servicios están diseñados para brindarle la libertad y la flexibilidad necesarias para tener el control de sus inversiones. Ofrecemos una gama de productos, herramientas y soluciones de inversión que se ajustan a las necesidades y particularidades de cada cliente.</p>
+                <h1>Control y seguimiento con un especialista asegurado</h1>
+                <p>Nuestros servicios están diseñados para brindarle la libertad y la flexibilidad necesarias para tener el control de sus inversiones.</p>
             </div>
             <div className="service-item-container">
                 <div className="service-item">
@@ -21,7 +21,7 @@ export default function ServiceDetail() {
                 </div>
                 <div className="service-item">
                     <div className="service-symbol"></div>
-                    <h3>Consultoria</h3>
+                    <h3>Consultoría</h3>
                     <p>Ofrecemos asesoramiento integral a personas y empresas que busquen acceder al mercado bursátil y extrabursátil. Acompañamos a aquellas entidades que deseen cotizar en la Bolsa de Valores promoviendo el lanzamiento de emisiones públicas y privadas y su colocación en el mercado.</p>
                 </div>
             </div>

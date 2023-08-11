@@ -21,11 +21,11 @@ export default function MainContact() {
         <div className="cont-container">
             <h5>CONTACTO</h5>
             <div className="cont-know-more">
-                <h1>Conviértase en parte del equipo de Green Capital</h1>
+                <h1>Ponemos a su disposición nuestros canales de comunicación para ayudarle a solucionar cualquier duda.</h1>
             </div>
             <div className="cont-join">
                 <img src="/items/logo2.png" alt="logo"></img>
-                <h4>Únete a la red de Green Capital y comienza a invertir.</h4>
+                <h4>Green Capital Casa de Bolsa S.A. es una institución regulada y supervisada por la Comisión Nacional de Valores (CNV) de la República del Paraguay</h4>
             </div>
         </div>
     </div>

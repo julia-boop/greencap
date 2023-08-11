@@ -19,7 +19,7 @@ export default function AccFaqs() {
 
                 <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
                 <div class="card-body">
-                Como agente ByMA, Green Capital adhiere a todas las normas y buenas prácticas recomendadas por el mercado, y las operaciones caen bajo la órbita de la Unidad de Investigaciones Financieras. Esto incluye la utilización de la última tecnología disponible aplicada al resguardo de sus datos.
+                Como Casa de Bolsa registrada, Green Capital adhiere a todas las normas y buenas prácticas recomendadas por el mercado, y las operaciones caen bajo la órbita de la Comisión Nacional de Valores de Paraguay. Esto incluye la utilización de la última tecnología disponible aplicada al resguardo de sus datos.
                 </div>
                 </div>
             </div>
@@ -33,7 +33,7 @@ export default function AccFaqs() {
                 </div>
                 <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
                 <div class="card-body">
-                    Los requisitos son sencillos: En el caso de las personas físicas basta con acreditar identidad y domicilio (Documento y servicio a su nombre). En el caso de las personas jurídicas se requerirá dependiendo de la naturaleza societaria, documentación que acredite tanto la conformación de la misma como la identidad y domicilio de sus representantes. Además de esto se requeriran por exigencia de la UIF una declaración de persona políticamente expuesta.
+                Los requisitos para la apertura de cuenta varían según se trate de personas físicas o jurídicas. En el caso de las personas jurídicas se requerirá dependiendo de la naturaleza societaria, documentación que acredite tanto la conformación de la misma como la identidad y domicilio de sus representantes. Además de esto se requerirán por exigencia de la CNV una declaración de persona políticamente expuesta.
                 </div>
                 </div>
             </div>
@@ -62,20 +62,6 @@ export default function AccFaqs() {
                 <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
                 <div class="card-body">
                     La comisión depende exclusivamente de la operación a realizar. Para consultar el cuadro vigente presione aquí
-                </div>
-                </div>
-            </div>
-            <div class="card">
-                <div class="card-header" id="headingFive">
-                <h2 class="mb-0">
-                    <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                    ¿Por qué al momento de la apertura de cuenta debo realizar la declaración de PEP? 
-                    </button>
-                </h2>
-                </div>
-                <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
-                <div class="card-body">
-                    Es un requisito fundamental de la UIF que regula la actividad financiera. Para determinar si dicha declaración le corresponden ingrese aquí. 
                 </div>
                 </div>
             </div>

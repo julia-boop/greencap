@@ -21,12 +21,12 @@ export default function MainUs() {
             <div className="about-container">
                 <h5>ACERCA DE NOSOTROS</h5>
                 <div className="know-more">
-                    <h1>Conoce a </h1>
+                    <h1>Conocé a </h1>
                     <img src="/items/logo1-us.png" alt="logo"></img>
                 </div>
                 <div className="join">
                     <img src="/items/logo2.png" alt="logo"></img>
-                    <h4>Únete a la red de Green Capital y comienza a invertir.</h4>
+                    <h4>Somos una Casa de Bolsa inscripta en la Bolsa de Valores de Asunción (BVA) y en la Comisión Nacional de Valores (CNV) de la República del Paraguay desde el año 2023. Green Capital se encuentra autorizada para operar en el Mercado de Valores local e internacional.</h4>
                 </div>
             </div>
         </div>
