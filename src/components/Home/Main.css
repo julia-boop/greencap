@@ -471,7 +471,7 @@ a:hover{
 
   /* ===========================MOBILE MEDIAQUERIES =============================== */
 
-  @media (max-width: 390px){
+  @media (max-width: 400px){
     .bm-burger-button{
         display: initial;
     }
@@ -528,6 +528,15 @@ a:hover{
 
     .figure-container h1#plus, h1#number{
         font-size: 3.5rem;
+    }
+
+    .transform-container{
+        padding: 30px;
+        padding-top: 50px;
+    }
+
+    .transform-container h1{
+        font-size: 2.5rem;
     }
 
     .title-container{
@@ -607,5 +616,9 @@ a:hover{
 
     .info-text-container{
         flex-direction: column;
+    }
+
+    .info-items{
+        width: 100%;
     }
   }
