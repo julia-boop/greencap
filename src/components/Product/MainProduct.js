@@ -11,6 +11,7 @@ export default function MainProduct() {
             <div className="nav-link-container-prod">
                 <ul className="nav-link-us">
                     <li> <a href="/us"> Nosotros </a> </li>
+                    <li> <a href="/legal"> Legal </a> </li>
                     <li> <a id="active" href="/product"> Productos & Servicios </a> </li>
                     <li> <a href="/faqs"> FAQs </a> </li>
                     <li id="contact"> <a href="/contact"> Contacto </a> </li>

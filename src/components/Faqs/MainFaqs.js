@@ -11,6 +11,7 @@ export default function MainFaqs() {
             <div className="nav-link-container-faq">
                 <ul className="nav-link-us">
                     <li> <a href="/us"> Nosotros </a> </li>
+                    <li> <a href="/legal"> Legal </a> </li>
                     <li> <a href="/product"> Productos & Servicios </a> </li>
                     <li> <a id="active" href="/faqs"> FAQs </a> </li>
                     <li id="contact"> <a href="/contact"> Contacto </a> </li>

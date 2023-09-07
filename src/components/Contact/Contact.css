@@ -160,3 +160,54 @@
 .success-msg p{
     margin-bottom: 0px;
 }
+
+  /* ===========================MOBILE MEDIAQUERIES =============================== */
+
+  @media (max-width: 400px){
+    .bm-burger-button{
+        display: initial;
+    }
+
+    .nav-link-container-cont{
+        display: none;
+    }
+
+    .cont-container{
+        width: 100%;
+        padding: 80px;
+        text-align: center;
+    }
+
+    .cont-container h1{
+        font-size: 2.2rem;
+        margin-right: 0px;
+    }
+
+    .cont-join{
+        flex-direction: column;
+    }
+
+    .cont-join img{
+        margin-right: 0px;
+        margin-bottom: 15px;
+    }
+
+    .form-title-container{
+        padding: 60px;
+    }
+
+    .form-container{
+        padding: 50px;
+        padding-top: 0px;
+    }
+
+    .form-container form{
+        width: 95%;
+    }
+
+    .btn-form{
+        justify-content: center;
+        padding-left: 0px;
+    }
+
+}

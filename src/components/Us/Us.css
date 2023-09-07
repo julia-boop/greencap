@@ -124,6 +124,10 @@
     padding: 0px 40px 0px 40px
 }
 
+.solution-container h1#mb{
+    display: none;
+}
+
 .solution-container p{
     letter-spacing: -6px;
     color: white;
@@ -350,3 +354,90 @@
 .team-member h5{
     margin: 0px;
 }
+
+  /* ===========================MOBILE MEDIAQUERIES =============================== */
+
+  @media (max-width: 400px){
+    .bm-burger-button{
+        display: initial;
+    }
+
+    .nav-link-container-us{
+        display: none;
+    }
+
+    .nav-img-container-us img{
+        width: 85%;
+    }
+
+    .about-container{
+        width: 100%;
+        text-align: center;
+        padding: 80px;
+    }
+
+    .about-container img{
+        margin-right: 0px;
+        margin-top: 20px;
+    }
+
+    .about-container h4{
+        margin-top: 20px;
+    }
+
+    .know-more{
+        display: none;
+    }
+
+    .join{
+        flex-direction: column;
+    }
+
+    .solution-container h1#dk{
+        display: none;
+    }
+
+    .solution-container h1#mb{
+        display: initial;
+    }
+
+    .oval hr{
+        display: none;
+    }
+
+    .oval{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .oval h2#mid, .oval h2{
+        top: -210px;
+    }
+
+    .main-container-c{
+        flex-direction: column;
+    }
+
+    .client-container{
+        text-align: center;
+        width: 80%;
+        margin: 0px;
+    }
+
+    .accordeon-container{
+        margin: 0px;
+        width: 90%;
+    }
+
+    .team-member-container{
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .team-member{
+        width: 100%;
+    }
+  }

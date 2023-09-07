@@ -145,3 +145,44 @@
     box-shadow: none;
 }
 
+  /* ===========================MOBILE MEDIAQUERIES =============================== */
+
+  @media (max-width: 400px){
+    .bm-burger-button{
+        display: initial;
+    }
+
+    .nav-link-container-faq{
+        display: none;
+    }
+
+    .faq-container{
+        width: 100%;
+        text-align: center;
+        padding: 80px 80px 80px 80px;
+    }
+
+    .faq-know-more h1{
+        font-size: 2.2rem;
+        margin-right: 0px;
+    }
+
+    .faq-join{
+        flex-direction: column;
+    }
+
+    .faq-join img{
+        margin-right: 0px;
+        margin-bottom: 15px;
+    }
+
+    .acc-container{
+        margin: 0px;
+        padding: 60px;
+    }
+
+    .title-acc-container{
+        text-align: center;
+
+    }
+  }

@@ -23,6 +23,7 @@ const NavBar = () => {
     onStateChange={handleStateChange} >
       <a href="/" onClick={() => handleCloseMenu() } className="menu-item">Inicio</a>
       <a href="/us" onClick={() => handleCloseMenu() } className="menu-item">Nosotros</a>
+      <a href="/legal" onClick={() => handleCloseMenu() } className="menu-item">Legal</a>
       <a href="/product" onClick={() => handleCloseMenu() } className="menu-item">Productos y Servicios</a>
       <a href="/faqs" onClick={() => handleCloseMenu() } className="menu-item">FAQs</a>
       <a href="/contact" onClick={() => handleCloseMenu() } className="menu-item">Contacto</a>
