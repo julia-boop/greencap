@@ -105,7 +105,7 @@ export default function DetailProduct() {
                         </div>
                     </div>
                     <div className="product-name">
-                        <h4>Fideicomismos</h4>
+                        <h4>Fideicomisos</h4>
                     </div>
                 </div>
                 <div className="product-item-container">

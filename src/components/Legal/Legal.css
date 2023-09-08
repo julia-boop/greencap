@@ -134,6 +134,45 @@
     font-weight: bold;
 }
 
+.balances-main-container{
+    background-color: #181531;
+    padding: 100px;
+}
+
+.balances-title-container{
+    text-align: center;
+}
+
+.balances-title-container h5{
+    color: #14C38E;
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+}
+
+.balances-title-container h1, .balances-title-container p{
+    color: white;
+}
+
+
+
+.balances-container{
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.balances-container a{
+    text-decoration: underline;
+    font-weight: bold;
+    margin: 10px;
+    color: white;
+}
+
+.balances-container path{
+    width: 30px;
+}
+
   /* ===========================MOBILE MEDIAQUERIES =============================== */
 
   @media (max-width: 400px){
@@ -172,4 +211,7 @@
         text-overflow: ellipsis;
     }
 
+    .balances-main-container{
+        padding: 60px;
+    }
 }

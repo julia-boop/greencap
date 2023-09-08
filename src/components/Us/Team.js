@@ -28,7 +28,7 @@ export default function Team() {
                     <img src="/items/team.png" alt="hidden"></img>
                     <h2>Ec. Emilia Bazzano</h2>
                     <h5>CCO</h5>
-                    <p>Licenciada en Economía, (UDELAR – Uruguay). Master en Administración de Empresas (EAE Business School – España). Posee una amplia experiencia en asesoramiento y consultoría financiera en diversos sectores, investigación de mercado, elaboración de planes de negocios, flujos de fondos y evaluación de proyectos de inversión.</p>
+                    <p>Licenciada en Economía, (UDELAR – Uruguay) y Operadora certificada (BVA – Paraguay). Master en Administración de Empresas (EAE Business School – España). Posee una amplia experiencia en asesoramiento y consultoría financiera en diversos sectores, investigación de mercado, elaboración de planes de negocios, flujos de fondos y evaluación de proyectos de inversión.</p>
                 </div>
             </div>
         </div>

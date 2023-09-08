@@ -5,6 +5,7 @@ import './Legal.css'
 import Campaign from './Campaign'
 import Info from '../Home/Info'
 import Menu from '../Home/Menu'
+import Balances from './Balances'
 
 export default function Legal() {
     return (
@@ -13,6 +14,7 @@ export default function Legal() {
             <Main/>
             <Pdf/>
             <Campaign/>
+            <Balances/>
             <Info/>
         </div>
     )
