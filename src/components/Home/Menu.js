@@ -27,6 +27,7 @@ const NavBar = () => {
       <a href="/product" onClick={() => handleCloseMenu() } className="menu-item">Productos y Servicios</a>
       <a href="/faqs" onClick={() => handleCloseMenu() } className="menu-item">FAQs</a>
       <a href="/contact" onClick={() => handleCloseMenu() } className="menu-item">Contacto</a>
+      <a href="http://192.168.110.2/GREENHB17/WpLOGIN.ASPX" onClick={() => handleCloseMenu() } className="menu-item">Home Banking</a>
     </Menu>
   );
 };
