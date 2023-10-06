@@ -15,7 +15,7 @@ function MainLegal() {
                         <li> <a href="/product"> Productos & Servicios </a> </li>
                         <li> <a href="/faqs"> FAQs </a> </li>
                         <li id="contact"> <a href="/contact"> Contacto </a> </li>
-                        <li id="contact"> <a href="http://192.168.110.2/GREENHB17/WpLOGIN.ASPX"> Home Banking </a> </li>
+                        {/* <li id="contact"> <a href="http://192.168.110.2/GREENHB17/WpLOGIN.ASPX"> Home Banking </a> </li> */}
                     </ul>
                 </div>
             </div>
