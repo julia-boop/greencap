@@ -27,7 +27,7 @@ export default function MainContact() {
             </div>
             <div className="cont-join">
                 <img src="/items/logo2.png" alt="logo"></img>
-                <h4>Green Capital Casa de Bolsa S.A. es una institución regulada y supervisada por la Comisión Nacional de Valores (CNV) de la República del Paraguay</h4>
+                <h4>Green Capital Casa de Bolsa S.A. es una institución regulada y supervisada por la Superintendencia de Valores - Banco Central del Paraguay (SIV)</h4>
             </div>
         </div>
     </div>

@@ -33,7 +33,7 @@ export default function AccFaqs() {
                 </div>
                 <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
                 <div class="card-body">
-                Los requisitos para la apertura de cuenta varían según se trate de personas físicas o jurídicas. En el caso de las personas jurídicas se requerirá dependiendo de la naturaleza societaria, documentación que acredite tanto la conformación de la misma como la identidad y domicilio de sus representantes. Además de esto se requerirán por exigencia de la CNV una declaración de persona políticamente expuesta.
+                Los requisitos para la apertura de cuenta varían según se trate de personas físicas o jurídicas. En el caso de las personas jurídicas se requerirá dependiendo de la naturaleza societaria, documentación que acredite tanto la conformación de la misma como la identidad y domicilio de sus representantes. Además de esto se requerirán por exigencia de la SIV una declaración de persona políticamente expuesta.
                 </div>
                 </div>
             </div>

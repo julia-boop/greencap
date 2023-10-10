@@ -7,7 +7,7 @@ function Pdf() {
                 <div className="pdf-item-img">
                     <img src="/items/cnv.png" alt="cnv"></img>
                 </div>
-                <a href="/pdf/Licencia.pdf" download><p>Inscripción en la CNV</p></a>
+                <a href="/pdf/Licencia.pdf" download><p>Inscripción en la SIV</p></a>
             </div>
             <div className="pdf-item">
                 <div className="pdf-item-img">

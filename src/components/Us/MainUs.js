@@ -28,7 +28,7 @@ export default function MainUs() {
                 </div>
                 <div className="join">
                     <img src="/items/logo2.png" alt="logo"></img>
-                    <h4>Somos una Casa de Bolsa inscripta en la Bolsa de Valores de Asunción (BVA) y en la Comisión Nacional de Valores (CNV) de la República del Paraguay desde el año 2023. Green Capital se encuentra autorizada para operar en el Mercado de Valores local e internacional.</h4>
+                    <h4>Somos una Casa de Bolsa inscripta en la Bolsa de Valores de Asunción (BVA) y en la Superintendencia de Valores - Banco Central de Paraguay (SIV) desde el año 2023. Green Capital se encuentra autorizada para operar en el Mercado de Valores local e internacional.</h4>
                 </div>
             </div>
         </div>

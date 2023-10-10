@@ -20,7 +20,7 @@ export default function Info() {
                         <p>info@greencapital.com.py <br></br>+(595)21 326 7085</p>
                     </div>
                     <div className="info-items">
-                        <p id="desc">Green Capital Casa de Bolsa S.A. es una institución regulada y supervisada por la Comisión Nacional de Valores (CNV) de la República del Paraguay</p>
+                        <p id="desc">Green Capital Casa de Bolsa S.A. es una institución regulada y supervisada por la Superintendencia de Valores - Banco Central de Paraguay (SIV)</p>
                         {/* <p id="u">Ayuda</p>
                         <p id="u">Politicas de Privacidad</p>
                         <p id="u">Terminos y Condiciones</p> */}
