@@ -471,7 +471,7 @@ a:hover{
 
   /* ===========================MOBILE MEDIAQUERIES =============================== */
 
-  @media (max-width: 400px){
+  @media screen and (max-width: 400px){
     .bm-burger-button{
         display: initial;
     }
