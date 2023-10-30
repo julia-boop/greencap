@@ -1,5 +1,5 @@
 import React from 'react'
-import './Us.css'
+import './MainUs.css'
 
 export default function MainUs() {
     return (

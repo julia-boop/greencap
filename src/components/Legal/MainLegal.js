@@ -1,4 +1,5 @@
 import React from 'react'
+import './MainLegal.css'
 
 function MainLegal() {
     return (

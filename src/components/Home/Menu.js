@@ -1,8 +1,6 @@
 import React, { useState } from 'react';
 import { slide as Menu } from 'react-burger-menu';
-
-import './Main.css';
-      
+import './Menu.css'      
 
 const NavBar = () => {
   const [isMenuOpen, handleMenu] = useState(false);

@@ -1,4 +1,5 @@
 import React from 'react'
+import './ServiceDetail.css'
 
 export default function ServiceDetail() {
     return (

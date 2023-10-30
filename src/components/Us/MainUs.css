@@ -1,0 +1,137 @@
+.main-container-us{
+    background-color: #181531;
+}
+
+.nav-container-us{
+    padding-top: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-img-container-us{
+    width: 50%;
+    padding-left: 15px;
+}
+
+.nav-img-container-us img{
+    width: 25%;
+}
+
+.nav-link-container-us{
+    width: 50%;
+}
+
+.nav-link-us{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.nav-link-us li{
+    list-style: none;
+}
+
+.nav-link-us li a {
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+}
+
+.nav-link-us li a#active{
+    color: #14C38E;
+}
+
+.nav-link-us li#contact{
+    background-color:#A0ECCE;
+    border-radius: 20px;
+    padding: 5px 15px 5px 15px;
+}
+
+.nav-link-us li#contact a {
+    color: #181531;
+}
+
+.about-container{
+    width: 60%;
+    padding: 100px 50px 100px 100px;
+}
+
+.about-container h5{
+    color: #14C38E;
+    font-size: 1.2rem;
+}
+
+.know-more{
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.know-more h1{
+    font-size: 3rem;
+    font-weight: 400;
+    margin-right: 15px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.know-more img{
+    width: 50%;
+}
+
+.join{
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.join img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.join h4{
+    font-weight: 400;
+    font-size: 1.3rem;
+}
+
+
+  /* ===========================MOBILE MEDIAQUERIES =============================== */
+
+  @media screen and (max-width: 400px){
+    .bm-burger-button{
+        display: initial;
+    }
+
+    .nav-link-container-us{
+        display: none;
+    }
+
+    .nav-img-container-us img{
+        width: 85%;
+    }
+
+    .about-container{
+        width: 100%;
+        text-align: center;
+        padding: 80px;
+    }
+
+    .about-container img{
+        margin-right: 0px;
+        margin-top: 20px;
+    }
+
+    .about-container h4{
+        margin-top: 20px;
+    }
+
+    .know-more{
+        display: none;
+    }
+
+    .join{
+        flex-direction: column;
+    }
+  }

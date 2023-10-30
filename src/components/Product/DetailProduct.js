@@ -1,6 +1,8 @@
 import React from 'react'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {faArrowRight} from '@fortawesome/free-solid-svg-icons'
+import './DetailProduct.css'
+
 export default function DetailProduct() {
     return (
         <div className="product-detail-container">

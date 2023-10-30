@@ -1,5 +1,4 @@
 import React from 'react'
-import './Product.css'
 import MainProduct from './MainProduct'
 import DetailProduct from './DetailProduct'
 import ServiceDetail from './ServiceDetail'

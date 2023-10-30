@@ -1,0 +1,122 @@
+.main-container-p{
+    background-image: url('../../../public/items/frame2.png');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.white-container{
+    background-color: white;
+    width: 95%;
+    opacity: 0.9;
+}
+
+.transform-container{
+    padding: 80px;
+}
+
+.transform-container h1{
+    font-size: 4.5rem;
+    padding-left: 20px;
+    text-transform: uppercase;
+}
+
+.transform-container h1#colored{
+    color: #14C38E;
+
+}
+
+.figure-container{
+    padding: 60px 50px 60px 200px;
+    display: flex;
+    align-items: center;
+}
+
+.figure-container h1#plus, h1#number{
+    font-size: 8rem;
+    transition: ease-in-out 0.5s;
+}
+
+.figure-container h1#plus{
+    margin-top: 0px;
+    margin-bottom: -10px;
+}
+
+.figure-container h1#plus:hover{
+    color: #14C38E;
+}
+
+.figure-container h1#number{
+    margin-top: -40px;
+    margin-left: 50px;
+    color: #14C38E;
+}
+
+.figure-container h1#number:hover{
+    color: black;
+}
+
+.title-container{
+    margin-left: 30px;
+    font-size: 2rem;
+    width: 30%;
+    font-weight: 400;
+}
+
+.text-container{
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 70px;
+}
+
+.text-container div{
+    width: 30%;
+    margin:10px 50px 10px 30px;
+    font-size: 1.5rem;
+    border-top: 1px solid #14C38E;
+    margin-bottom: 40px;
+}
+
+.text-container h3{
+    color: #14C38E;
+    font-weight: 700;
+}
+
+.text-container h5{
+    font-weight: 400;
+}
+
+@media screen and (max-width: 400px){
+
+    .transform-container{
+        padding: 30px;
+        padding-top: 50px;
+    }
+
+    .transform-container h1{
+        font-size: 2.5rem;
+    }
+
+    .title-container{
+        width: 100%;
+        text-align: center;
+        margin: 0px;
+    }
+
+    .text-container{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin: 0px;
+    }
+
+    .text-container div{
+        margin: 10px;
+        width: 75%;
+    }
+
+    .text-container div h3{
+        font-size: 1.5rem;
+    }
+}

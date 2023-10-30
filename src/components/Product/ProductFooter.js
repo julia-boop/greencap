@@ -1,4 +1,5 @@
 import React from 'react'
+import './ProductFooter.css'
 
 export default function ProductFooter() {
     return (

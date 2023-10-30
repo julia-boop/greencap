@@ -1,4 +1,5 @@
 import React from 'react'
+import './MainFaqs.css'
 
 export default function MainFaqs() {
     return (

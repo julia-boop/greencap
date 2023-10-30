@@ -1,4 +1,5 @@
 import React from 'react'
+import './MainContact.css'
 
 export default function MainContact() {
     return (

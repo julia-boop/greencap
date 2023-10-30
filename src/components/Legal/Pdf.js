@@ -1,4 +1,5 @@
 import React from 'react'
+import './Pdf.css'
 
 function Pdf() {
     return (

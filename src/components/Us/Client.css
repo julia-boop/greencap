@@ -1,0 +1,109 @@
+.main-container-c{
+    display: flex;
+    align-items: center;
+}
+
+.client-container, .accordeon-container{
+    width: 50%;
+    margin: 50px 50px 50px 50px;
+    padding: 0px 50px 0px 50px;
+}
+
+.client-container h5{
+    color: #14C38E;
+    font-size: 1.2rem;
+}
+
+.accordeon-item{
+    color: white;
+    padding: 30px 30px 30px 30px;   
+    text-align: center;
+    border-radius: 20px;
+    transition: all ease-in-out 0.5s;
+    margin-bottom: 15px;
+}
+
+.accordion-c{
+    margin-top: 0px;
+}
+
+.individual{
+    background-image: url('../../../public/items/frame10.png');
+    background-size: cover;
+    background-repeat: no-repeat;    
+}
+
+.coorporate{
+    background-image: url('../../../public/items/frame11.png');
+    background-size: cover;
+    background-repeat: no-repeat;    
+}
+
+.institution{
+    background-image: url('../../../public/items/frame12.png');
+    background-size: cover;
+    background-repeat: no-repeat;    
+}
+
+.card-c{
+    margin-bottom: 20px;
+    border-radius: 5px!important;
+}
+
+.card-header-c{
+    background-color: transparent !important;
+    border-bottom: none !important;
+    padding-bottom: 20px!important;
+}
+
+.card-header-c button {
+    color: white!important;
+    text-align: center!important;
+    font-size: 1.2rem;
+}
+
+.card-body-c{
+    color: white;
+    text-align: center;
+}
+
+.symbols{
+    position: relative;
+    width: min-content;
+    left: 15px;
+    top: 10px;
+}
+
+.symbols .long{
+    width: 3px;
+    height: 10px;
+    background-color: #14C38E;
+    border-radius: 2px;
+    margin: 3px 0px 3px 0px;
+}
+
+.symbols .short{
+    width: 3px;
+    height: 3px;
+    background-color: white;
+    border-radius: 50%;
+    margin: 3px 0px 3px 0px;
+}
+
+@media screen and (max-width: 400px){
+    .main-container-c{
+        flex-direction: column;
+    }
+
+    .client-container{
+        text-align: center;
+        width: 80%;
+        margin: 0px;
+    }
+
+    .accordeon-container{
+        margin: 0px;
+        width: 90%;
+    }
+
+}

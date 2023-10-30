@@ -1,4 +1,5 @@
 import React from 'react'
+import './Campaign.css'
 
 function Campaign() {
     return (

@@ -1,0 +1,33 @@
+.campaign-container{
+    padding: 100px 200px 100px 200px;
+}
+
+.campaign-title-container{
+    text-align: center;
+}
+
+.campaign-title-container h5{
+    color: #14C38E;
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+}
+
+.campaign-title-container h1{
+    margin-bottom: 40px;
+}
+
+.campaign-text-container a {
+    margin-bottom: 20px;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+@media screen and (max-width: 400px){
+    .campaign-container{
+        padding: 40px;
+    }
+
+    .campaign-text-container a{
+        text-overflow: ellipsis;
+    }
+}

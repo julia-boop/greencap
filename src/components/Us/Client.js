@@ -1,4 +1,5 @@
 import React from 'react'
+import './Client.css'
 
 export default function Client() {
     return (
