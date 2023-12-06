@@ -103,7 +103,7 @@
     font-weight: 700;
 }
 
-@media screen and (max-width: 400px){
+@media all and (max-width: 400px){
     .bm-burger-button{
         display: initial!important;
     }

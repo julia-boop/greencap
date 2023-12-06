@@ -90,7 +90,7 @@
     margin: 3px 0px 3px 0px;
 }
 
-@media screen and (max-width: 400px){
+@media all and (max-width: 400px){
     .main-container-c{
         flex-direction: column;
     }

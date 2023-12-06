@@ -56,7 +56,7 @@
     margin-bottom: 70px;
 }
 
-@media screen and (max-width: 400px){
+@media all and (max-width: 400px){
     .solution-container h1#dk{
         display: none;
     }

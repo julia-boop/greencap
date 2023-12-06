@@ -52,8 +52,7 @@
     margin: 0px;
 }
 
-@media screen and (max-width: 400px){
-
+@media all and (max-width: 400px){
     .team-member-container{
         flex-direction: column;
         align-items: center;

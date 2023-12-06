@@ -17,13 +17,19 @@
     color: white;
 }
 
-
-
 .balances-container{
     color: white;
     display: flex;
     justify-content: center;
+    flex-direction: column;
+    align-items: center;
     margin-top: 40px;
+    
+}
+
+.balance-item{
+    margin: 15px;
+    width: max-content;
 }
 
 .balances-container a{
@@ -37,7 +43,23 @@
     width: 30px;
 }
 
-@media screen and (max-width: 400px){
+.siv-legal-container{
+    color: white;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.siv-legal-container h5{
+    font-size: 1rem;
+}
+
+.siv-legal-container a{
+    color: white;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+@media all and (max-width: 400px){
     .balances-main-container{
         padding: 60px;
     }

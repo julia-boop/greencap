@@ -46,7 +46,7 @@
     border: 1px solid #A0ECCE;
 }
 
-@media screen and (max-width: 400px){
+@media all and (max-width: 400px){
     .oval hr{
         display: none;
     }

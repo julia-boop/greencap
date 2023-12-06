@@ -16,7 +16,7 @@ function MainLegal() {
                         <li> <a href="/product"> Productos & Servicios </a> </li>
                         <li> <a href="/faqs"> FAQs </a> </li>
                         <li id="contact"> <a href="/contact"> Contacto </a> </li>
-                        {/* <li id="contact"> <a href="http://192.168.110.2/GREENHB17/WpLOGIN.ASPX"> Home Banking </a> </li> */}
+                        <li id="contact"> <a href="http://138.186.61.178/greenhb17/wplogin.aspx"> Home Banking </a> </li>
                     </ul>
                 </div>
             </div>
@@ -32,7 +32,7 @@ function MainLegal() {
                 </div>
             </div>
             <div className="cnv">
-                    <p>Green Capital Casa de Bolsa S.A. se encuentra regulada por la <a href="https://www.cnv.gov.py/?page_id=5476">Superintendencia de Valores - Banco Central del Paraguay (SIV)</a> e inscripta según resolución N° 117 _04072023 del Registro del Mercado de Valores, Sección Casas de Bolsa de dicha institución. En el marco de su actividad, la compañía actúa en estricto cumplimiento de la normativa legal vigente a nivel nacional e internacional. El área de Cumplimiento fue creada con el fin de garantizar el seguimiento y la aplicación de dicha normativa nacional e internacional, políticas internas y las mejores prácticas aplicables en la materia.</p>
+                    <p>Green Capital Casa de Bolsa S.A. se encuentra regulada por la <a href="https://siv.bcp.gov.py/">Superintendencia de Valores - Banco Central del Paraguay (SIV)</a> e inscripta según resolución N° 117 _04072023 del Registro del Mercado de Valores, Sección Casas de Bolsa de dicha institución. En el marco de su actividad, la compañía actúa en estricto cumplimiento de la normativa legal vigente a nivel nacional e internacional. El área de Cumplimiento fue creada con el fin de garantizar el seguimiento y la aplicación de dicha normativa nacional e internacional, políticas internas y las mejores prácticas aplicables en la materia.</p>
             </div>
         </div>
     )

@@ -87,7 +87,7 @@
     font-weight: 400;
 }
 
-@media screen and (max-width: 400px){
+@media all and (max-width: 400px){
 
     .transform-container{
         padding: 30px;
