@@ -25,7 +25,7 @@ const NavBar = () => {
       <a href="/product" onClick={() => handleCloseMenu() } className="menu-item">Productos y Servicios</a>
       <a href="/faqs" onClick={() => handleCloseMenu() } className="menu-item">FAQs</a>
       <a href="/contact" onClick={() => handleCloseMenu() } className="menu-item">Contacto</a>
-      <a href="http://138.186.61.178/greenhb17/wplogin.aspx" onClick={() => handleCloseMenu() } className="menu-item">Home Banking</a>
+      <a href="http://app.greencapital.com.py/greenhb17/wplogin.aspx" onClick={() => handleCloseMenu() } className="menu-item">Área Clientes</a>
     </Menu>
   );
 };

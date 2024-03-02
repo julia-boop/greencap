@@ -16,9 +16,9 @@ export default function MainFaqs() {
                     <li> <a href="/product"> Productos & Servicios </a> </li>
                     <li> <a id="active" href="/faqs"> FAQs </a> </li>
                     <li id="contact"> <a href="/contact"> Contacto </a> </li>
-                    <li id="contact"> <a href="http://138.186.61.178/greenhb17/wplogin.aspx"> Home Banking </a> </li>
+                    <li id="contact"> <a href="http://app.greencapital.com.py/greenhb17/wplogin.aspx"> Área Clientes </a> </li>
                 </ul>
-            </div>
+            </div> 
         </div>
         <div className="faq-container">
             <h5>FAQ'S</h5>

@@ -17,6 +17,12 @@ function Pdf() {
                 <a href="/pdf/CodigoEtica.pdf" download><p>Código de ética</p></a>
             </div>
             <div className="pdf-item">
+                <div className="pdf-item-img">  
+                    <img src="/items/logo2.png" alt="bva"></img>
+                </div>
+                <a href="/pdf/ProcedimientoReclamos.pdf" download><p>Procedimiento de Reclamos</p></a>
+            </div>
+            <div className="pdf-item">
                 <div className="pdf-item-img">
                     <img src="/items/bva.png" alt="bva"></img>
                 </div>
