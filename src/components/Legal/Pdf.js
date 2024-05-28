@@ -11,6 +11,12 @@ function Pdf() {
                 <a href="/pdf/Licencia.pdf" download><p>Inscripción en la SIV</p></a>
             </div>
             <div className="pdf-item">
+                <div className="pdf-item-img">  
+                    <img src="/items/cnv.png" alt="bva"></img>
+                </div>
+                <a href="/pdf/HabilitacionSIV.pdf" download><p>Habilitación SIV</p></a>
+            </div>
+            <div className="pdf-item">
                 <div className="pdf-item-img">
                     <img src="/items/logo2.png" alt="logo"></img>
                 </div>
