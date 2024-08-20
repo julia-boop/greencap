@@ -103,6 +103,12 @@
     font-weight: 700;
 }
 
+.lang-btn-menu{
+  background-color: rgba(255, 255, 255, 0);
+  border: none;
+  padding: 0px;
+}
+
 @media all and (max-width: 400px){
     .bm-burger-button{
         display: initial!important;

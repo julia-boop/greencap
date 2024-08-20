@@ -1,29 +1,33 @@
 import React from 'react'
 import './ServiceDetail.css'
+import {useTranslation} from 'react-i18next';
 
 export default function ServiceDetail() {
+
+    const {t} = useTranslation();
+
     return (
         <div className="service-detail-container">
             <div className="service-title-container">
-                <h5>SERVICIOS</h5>
-                <h1>Control y seguimiento con un especialista asegurado</h1>
-                <p>Nuestros servicios están diseñados para brindarle la libertad y la flexibilidad necesarias para tener el control de sus inversiones.</p>
+                <h5>{t('detail-serv.label')}</h5>
+                <h1>{t('detail-serv.title')}</h1>
+                <p>{t('detail-serv.subtitle')}</p>
             </div>
             <div className="service-item-container">
                 <div className="service-item">
                     <div className="service-symbol"><p>  </p></div>
-                    <h3>Trading Desk</h3>
-                    <p>Contamos con operadores profesionales certificados por la Bolsa de Valores de Asunción. Ofrecemos servicios de ejecución de órdenes en renta fija (títulos públicos y privados), renta variable (acciones e índices) así como también de fondos de inversión y fondos mutuos.</p>
+                    <h3>{t('detail-serv.serv1-title')}</h3>
+                    <p>{t('detail-serv.serv1-text')}</p>
                 </div>
                 <div className="service-item">
                     <div className="service-symbol"></div>
-                    <h3>Custodia</h3>
-                    <p>Brindamos servicios de custodia para todo tipo de activos financieros locales e internacionales. Accedemos  al Mercado de Valores de Paraguay y mantenemos acuerdos de custodia y liquidación con las instituciones más confiables de la industria en el ámbito internacional.</p>
+                    <h3>{t('detail-serv.serv2-title')}</h3>
+                    <p>{t('detail-serv.serv2-text')}</p>
                 </div>
                 <div className="service-item">
                     <div className="service-symbol"></div>
-                    <h3>Consultoría</h3>
-                    <p>Ofrecemos asesoramiento integral a personas y empresas que busquen acceder al mercado bursátil y extrabursátil. Acompañamos a aquellas entidades que deseen cotizar en la Bolsa de Valores promoviendo el lanzamiento de emisiones públicas y privadas y su colocación en el mercado.</p>
+                    <h3>{t('detail-serv.serv3-title')}</h3>
+                    <p>{t('detail-serv.serv3-text')}</p>
                 </div>
             </div>
         </div>

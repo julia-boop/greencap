@@ -50,8 +50,17 @@
     color: #181531;
 }
 
+.nav-link-us li button.lang-btn{
+    background-color: #ffffff25;
+    color:white;
+    border: none;
+    padding: 5px 15px 5px 15px;
+    border-radius: 20px;
+    font-weight: 600;
+}
+
 .about-container{
-    width: 60%;
+    width: 70%;
     padding: 100px 50px 100px 100px;
 }
 
@@ -75,7 +84,7 @@
 }
 
 .know-more img{
-    width: 50%;
+    width: 45%;
 }
 
 .join{

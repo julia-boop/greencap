@@ -2,14 +2,18 @@ import React from 'react'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {faArrowRight} from '@fortawesome/free-solid-svg-icons'
 import './DetailProduct.css'
+import {useTranslation} from 'react-i18next';
 
 export default function DetailProduct() {
+
+    const {t} = useTranslation();
+
     return (
         <div className="product-detail-container">
             <div className="product-title-container">
-                <h5>PRODUCTOS</h5>
-                <h1>Especialistas en el mercado financiero</h1>
-                <p>Creemos en el mercado de capitales local del Paraguay y también en la diversificación, por lo que a través de nuestra Casa de Bolsa se brinda la posibilidad de invertir en:</p>
+                <h5>{t('detail-prod.label')}</h5>
+                <h1>{t('detail-prod.title')}</h1>
+                <p>{t('detail-prod.subtitle')}</p>
             </div>
             <div className="product-item-main-container">
                 <div className="product-item-container">
@@ -23,7 +27,7 @@ export default function DetailProduct() {
                         </div>
                     </div>
                     <div className="product-name">
-                        <h4>Acciones (Locales y del Exterior)</h4>
+                        <h4>{t('detail-prod.prod1')}</h4>
                     </div>
                 </div>
                 <div className="product-item-container">
@@ -37,7 +41,7 @@ export default function DetailProduct() {
                         </div>
                     </div>            
                     <div className="product-name">
-                        <h4>Bonos Soberanos y Corporativos (Locales y del Exterior)</h4>
+                        <h4>{t('detail-prod.prod2')}</h4>
                     </div>
                 </div>
                 <div className="product-item-container">
@@ -51,7 +55,7 @@ export default function DetailProduct() {
                         </div>
                     </div>
                     <div className="product-name">
-                        <h4>Opciones</h4>
+                        <h4>{t('detail-prod.prod3')}</h4>
                     </div>
                 </div>
                 <div className="product-item-container">
@@ -65,7 +69,7 @@ export default function DetailProduct() {
                         </div>
                     </div>
                     <div className="product-name">
-                        <h4>CDAs</h4>
+                        <h4>{t('detail-prod.prod4')}</h4>
                     </div>
                 </div>
                 <div className="product-item-container">
@@ -79,7 +83,7 @@ export default function DetailProduct() {
                         </div>
                     </div>
                     <div className="product-name">
-                        <h4>ETFs</h4>
+                        <h4>{t('detail-prod.prod5')}</h4>
                     </div>
                 </div>
                 <div className="product-item-container">
@@ -93,7 +97,7 @@ export default function DetailProduct() {
                         </div>
                     </div>
                     <div className="product-name">
-                        <h4>Fondos de Inversión y Fondos Mutuos (Locales y del Exterior)</h4>
+                        <h4>{t('detail-prod.prod6')}</h4>
                     </div>
                 </div>
                 <div className="product-item-container">
@@ -107,7 +111,7 @@ export default function DetailProduct() {
                         </div>
                     </div>
                     <div className="product-name">
-                        <h4>Fideicomisos</h4>
+                        <h4>{t('detail-prod.prod7')}</h4>
                     </div>
                 </div>
                 <div className="product-item-container">
@@ -121,12 +125,12 @@ export default function DetailProduct() {
                         </div>
                     </div>
                     <div className="product-name">
-                        <h4>Inversiones Alternativas</h4>
+                        <h4>{t('detail-prod.prod8')}</h4>
                     </div>
                 </div>
             </div>
             <div className="epigraph-container">
-                <p>Además del acceso a los mercados, realizamos la custodia de los títulos y el pago de servicios de dividendos y renta financiera</p>
+                <p>{t('detail-prod.epigraph')}</p>
             </div>
         </div>
     )

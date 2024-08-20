@@ -1,0 +1,207 @@
+{
+    "menu":{
+        "home":"Inicio",
+        "us":"Nosotros",
+        "legal":"Legal",
+        "products":"Productos",
+        "faqs":"FAQs",
+        "contact":"Contacto",
+        "client-area":"Área Clientes"
+    },
+    "main":{
+        "us":"Nosotros",
+        "legal":"Legal",
+        "products":"Productos",
+        "faqs":"FAQs",
+        "contact":"Contacto",
+        "client-area":"Área Clientes",
+        "paragraph": "Brindamos herramientas para que invertir en ",
+        "paragraph-bold":"Paraguay sea simple y seguro.",
+        "subparagraph":"Soluciones y alternativas a medida de las necesidades de cada cliente",
+        "button":"Contáctanos"
+    },
+    "portfolio":{
+        "title-coloured":"Transformá",
+        "title":"tu forma de invertir",
+        "subtitle1":"¿QUÉ HACEMOS?",
+        "text1":"Somos una Casa de Bolsa que ofrece una amplia gama de ",
+        "text1-bold1": "servicios y productos financieros",
+        "text1.2":", adecuados a las necesidades particulares de los inversores en el ",
+        "text1-bold2":"mercado de capitales local e internacional.",
+        "subtitle2":"NUESTROS CLIENTES",
+        "text2":"Trabajamos para identificar los instrumentos financieros que se adapten al perfil de inversión de nuestros clientes, ya si sean ",
+        "text2-bold":"individuos, corporaciones o instituciones"
+    },
+    "offer":{
+        "title1":"PRODUCTOS",
+        "subtitle1":"Nuestra oferta 360",
+        "text1":"Ofrecemos acceso a los productos financieros tanto en el mercado local como en el internacional, con el fin de diversificar su portafolio de inversiones.",
+        "button1":"Ver productos",
+        "title2":"SERVICIOS",
+        "subtitle2":"Consultoría y Desarrollo",
+        "text2":"Nuestro servicio es integral desde la asesoría de compra hasta la posterior evaluación y seguimiento del portafolio de los inversores.",
+        "button2":"Ver servicios"
+    },
+    "info":{
+        "title":"Empezá a invertir hoy a través de",
+        "button":"Contacto",
+        "address1":"Av. Aviadores del Chaco 2050, ",
+        "address2":"Complejo World Trade Center Torre III, Piso 11 ",
+        "address3":"Asunción - Paraguay",
+        "mail":"info@greencapital.com.py",
+        "phone":"+(595)21 326 7085",
+        "disclaimer":"Green Capital Casa de Bolsa S.A. es una institución regulada y supervisada por la Superintendencia de Valores - Banco Central de Paraguay (SIV)",
+        "trademark":"© Green Capital, 2023.",
+        "help":"Ayuda",
+        "priv-pol":"Política de Privacidad",
+        "terms":"Términos y Condiciones"
+    },
+    "main-us":{
+        "title":"ACERCA DE NOSOTROS",
+        "subtitle":"Conocé a ",
+        "text":"Somos una Casa de Bolsa inscripta en la Bolsa de Valores de Asunción (BVA) y en la Superintendencia de Valores - Banco Central de Paraguay (SIV) desde el año 2023. Green Capital se encuentra autorizada para operar en el Mercado de Valores local e internacional."
+    },
+    "solution":{
+        "title":"Brindamos soluciones personalizadas y a medida que nos llevan a construir relaciones de largo plazo con nuestros clientes.",
+        "subtitle":"Brindamos soluciones personalizadas",
+        "text":"El profesionalismo, confiabilidad, y la larga trayectoria de nuestro personal superior nos llevaron a consolidar una Casa de Bolsa independiente, versátil y con presencia en el mercado de capitales local e internacional."
+    },
+    "history":{
+        "label":"QUIENES SOMOS",
+        "title":"Misión y Visión",
+        "text1":"Brindar a nuestros clientes individuales e institucionales un servicio profesional en la gestión de sus activos financieros de acuerdo a los objetivos definidos, con altos estándares de ética y conducta personal.",
+        "text2":"Construir y sostener una amplia presencia local y prestigio internacional. Generar realciones de largo plazo con los clientes a partir del reconocimiento de la calidad y la innovación de las soluciones financieras ofrecidas.",
+        "tag1":"Trayectoria",
+        "tag2":"Compromiso",
+        "tag3":"Crecimiento"
+    },
+    "client":{
+        "label":"CLIENTES",
+        "title":"Quiénes confían en nosotros?",
+        "subtitle1":"En Green Capital trabajamos para identificar los instrumentos financieros que se adapten al perfil de inversión de nuestros clientes.",
+        "subtitle2":"Orientados a resultados, optimizamos carteras basados en la amplia gama de productos que ofrece el mercado financiero.",
+        "subtitle3":"Además de ofrecer un canal efectivo de comunicación entre asesores y comitentes para brindar soluciones financieras de forma rápida y precisa.",
+        "card1-title":"Individuos",
+        "card1-text":"Green Capital ofrece a los inversores individuales  un enfoque personalizado y una amplia gama de herramientas de inversión para ayudarlas a alcanzar sus objetivos financieros a largo plazo",
+        "card2-title":"Corporate",
+        "card2-text":"Al elegir Green Capital, los clientes corporativos pueden estar seguros de recibir una solución de inversión a medida que se ajusta a sus necesidades corporativas y a sus planes de negocio.",
+        "card3-title":"Instituciones",
+        "card3-text":"Green Capital ofrece a las instituciones un enfoque personalizado y una amplia gama de herramientas de inversión para ayudarlas a alcanzar sus objetivos financieros a largo plazo."
+    },
+    "team":{
+        "label":"QUIENES SOMOS",
+        "title":"Nuestro Equipo",
+        "name1":"Cr. Carlos Casarotti",
+        "pos1":"CEO",
+        "desc1":"Contador Público y Licenciado en Administración de Empresas (UDELAR – Uruguay). Más de 20 años de trayectoria en el área financiera bursátil. Se desempeñó como accionista y miembro de la Bolsa de Valores de Montevideo – Uruguay desarrollando actividad operativa de compra y venta de valores, administración de carteras, asesoramiento financiero y servicios de custodia para clientes corporativos.",
+        "name2":"Lic. Sebastián Chocho",
+        "pos2":"COO",
+        "desc2":"Administrador de empresas y Contador Público (UDESA – Argentina). Posgrado en Negocios y Tecnología (UDESA – Argentina). Operador Certificado (BVA – Paraguay). 10 Años de experiencia en consultoría de management, procesos y sistemas en clientes multinacionales en Argentina, Venezuela, España, Uruguay y Paraguay. Desde 2019 dedicado al desarrollo y dirección de empresas en Paraguay.",
+        "name3":"Cr. Camilo Calvelo",
+        "pos3":"CFO",
+        "desc3":"Contador Público, (UDELAR – Uruguay). Posgrado en Gestión de Portafolios de Inversión (UM – Uruguay). Diplomatura en Planificación Patrimonial y Fiscalidad Internacional (UCEMA – Argentina). Operador certificado (BVA – Paraguay). Desde 2015 trabajando en el sector financiero, específicamente en el mercado de capitales. Cuenta con una larga trayectoria en funciones de asesoramiento en finanzas corporativas, planificación financiera de la empresa, flujos de fondos y evaluación de proyectos de inversión.",
+        "name4":"Ec. Emilia Bazzano",
+        "pos4":"CCO",
+        "desc4":"Licenciada en Economía, (UDELAR – Uruguay) y Operadora certificada (BVA – Paraguay). Master en Administración de Empresas (EAE Business School – España). Posee una amplia experiencia en asesoramiento y consultoría financiera en diversos sectores, investigación de mercado, elaboración de planes de negocios, flujos de fondos y evaluación de proyectos de inversión."
+    },
+    "main-legal":{
+        "label":"LEGAL",
+        "title":"Regulaciones y Legales de Green Capital",
+        "subtitle":"Únete a la red de Green Capital y comienza a invertir.",
+        "text1":"Green Capital Casa de Bolsa S.A. se encuentra regulada por la ",
+        "link":"Superintendencia de Valores - Banco Central del Paraguay (SIV)",
+        "text2":" e inscripta según resolución N° 117 _04072023 del Registro del Mercado de Valores, Sección Casas de Bolsa de dicha institución. En el marco de su actividad, la compañía actúa en estricto cumplimiento de la normativa legal vigente a nivel nacional e internacional. El área de Cumplimiento fue creada con el fin de garantizar el seguimiento y la aplicación de dicha normativa nacional e internacional, políticas internas y las mejores prácticas aplicables en la materia."
+    },
+    "pdfs":{
+        "link1":"Inscripción en la SIV",
+        "link2":"Habilitación SIV",
+        "link3":"Código de Ética",
+        "link4":"Procedimiento de Reclamos",
+        "link5":"Inscripción en la Bolsa de Valores de Asunción",
+        "link6":"Acción de la Bolsa de Valores de Asunción"
+    },
+    "campaign":{
+        "label":"CAMPAÑA",
+        "title":"Campaña 'Nosotros sumamos'",
+        "text1":"A través del Decreto 508/2018 y la circular de la SIV / DIF N° 028/2020 se declara el 29 de Octubre de cada año el “Dia Nacional de la Prevención del Lavado de Activos, Negocios Responsables y Seguros.",
+        "text2":"Declárase de interés nacional la campaña “ Nosotros nos sumamos” de la Oficina de las Naciones Unidas Contra la Droga y el Delito (UNODC), sobre Prevención de Lavado de Activos e instituyese el 29 de Octubre de cada año, como día para la concientización y sensibilización a la sociedad paraguaya en materia Anti Lavado de Activos (ALA).",
+        "text3":"Señalamos además que se puede tener acceso al mencionado Decreto y al material audiovisual en conmemoración a la fecha de referencia a través de los siguientes links:",
+        "link":"Sistema ALA/CFT"
+    },
+    "balances":{
+        "label":"BALANCES",
+        "title":"Estados Financieros",
+        "link":"Haz click para descargar",
+        "balance1":"31.12.2022 - Green Capital",
+        "balance2":"30.06.2023 - Green Capital",
+        "balance3":"30.09.2023 - Green Capital",
+        "balance4":"31.12.2023 - Green Capital",
+        "balance5":"31.03.2024 - Green Capital",
+        "balance6":"30.06.2024 - Green Capital",
+        "link1":"Los Estados Financieros de Green Capital CBSA pueden ser consultados tambien haciendo click ",
+        "link2":"aquí"
+    },
+    "main-product":{
+        "label":"PRODUCTOS & SERVICIOS",
+        "title":"La manera más segura y eficiente de invertir.",
+        "subtitle":"Únete a la red de Green Capital y comienza a invertir."
+    },
+    "detail-prod":{
+        "label":"PRODUCTOS",
+        "title":"Especialistas en el mercado financiero",
+        "subtitle":"Creemos en el mercado de capitales local del Paraguay y también en la diversificación, por lo que a través de nuestra Casa de Bolsa se brinda la posibilidad de invertir en:",
+        "prod1":"Acciones (Locales y del Exterior)",
+        "prod2":"Bonos Soberanos y Corporativos (Locales y del Exterior)",
+        "prod3":"Opciones",
+        "prod4":"CDAs",
+        "prod5":"ETFs",
+        "prod6":"Fondos de Inversión y Fondos Mutuos (Locales y del Exterior)",
+        "prod7":"Fideicomisos",
+        "prod8":"Inversiones Alternativas",
+        "epigraph":"Además del acceso a los mercados, realizamos la custodia de los títulos y el pago de servicios de dividendos y renta financiera"
+    },
+    "detail-serv":{
+        "label":"SERVICIOS",
+        "title":"Control y seguimiento con un especialista asegurado.",
+        "subtitle":"Nuestros servicios están diseñados para brindarle la libertad y la flexibilidad necesarias para tener el control de sus inversiones.",
+        "serv1-title":"Trading Desk",
+        "serv1-text":"Contamos con operadores profesionales certificados por la Bolsa de Valores de Asunción. Ofrecemos servicios de ejecución de órdenes en renta fija (títulos públicos y privados), renta variable (acciones e índices) así como también de fondos de inversión y fondos mutuos.",
+        "serv2-title":"Custodia",
+        "serv2-text":"Brindamos servicios de custodia para todo tipo de activos financieros locales e internacionales. Accedemos  al Mercado de Valores de Paraguay y mantenemos acuerdos de custodia y liquidación con las instituciones más confiables de la industria en el ámbito internacional.",
+        "serv3-title":"Consultoría",
+        "serv3-text":"Ofrecemos asesoramiento integral a personas y empresas que busquen acceder al mercado bursátil y extrabursátil. Acompañamos a aquellas entidades que deseen cotizar en la Bolsa de Valores promoviendo el lanzamiento de emisiones públicas y privadas y su colocación en el mercado."
+    },
+    "main-faqs":{
+        "label":"FAQ'S",
+        "title":"Todo lo que necesitas saber acerca de Green Capital",
+        "subtitle":"Únete a la red de Green Capital y comienza a invertir."
+    },
+    "faqs":{
+        "label":"FAQs",
+        "title":"Preguntas Frecuentes",
+        "ques1":"¿Por qué operar con Green Capital SA?",
+        "ans1":"Como Casa de Bolsa registrada, Green Capital adhiere a todas las normas y buenas prácticas recomendadas por el mercado, y las operaciones caen bajo la órbita de la Superintendencia del Mercado de Valores de Paraguay. Esto incluye la utilización de la última tecnología disponible aplicada al resguardo de sus datos.",
+        "ques2":"¿Cuáles son los requisitos para abrir una cuenta?",
+        "ans2":"Los requisitos para la apertura de cuenta varían según se trate de personas físicas o jurídicas. En el caso de las personas jurídicas se requerirá dependiendo de la naturaleza societaria, documentación que acredite tanto la conformación de la misma como la identidad y domicilio de sus representantes. Además de esto se requerirán por exigencia de la SIV una declaración de persona políticamente expuesta.",
+        "ques3":"¿Hay un importe mínimo para operar?",
+        "ans3":"El monto mínimo para poder operar son USD 10.000 o su equivalente en guaraníes u otras monedas.",
+        "ques4":"¿Qué comisión se cobra por operar?",
+        "ans4":"Para consultar el cuadro vigente, complete el formulario de contacto y un representante de Green Capital responderá su solicitud",
+        "ques5":"¿Debo abrir una cuenta para operar una única vez?",
+        "ans5":"Por seguridad todas las operaciones son realizadas por comitentes aquí."
+    },
+    "main-cont":{
+        "label":"CONTACTO",
+        "title":"Ponemos a su disposición nuestros canales de comunicación para ayudarle a solucionar cualquier duda.",
+        "subtitle":"Green Capital Casa de Bolsa S.A. es una institución regulada y supervisada por la Superintendencia de Valores - Banco Central del Paraguay (SIV)"
+    },
+    "form":{
+        "label":"CONTACTO",
+        "title":"Contáctenos",
+        "name":"Nombre",
+        "email":"E-mail",
+        "phone":"Telefono",
+        "msg":"Mensaje",
+        "send":"Enviar"
+    }
+}

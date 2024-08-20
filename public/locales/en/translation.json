@@ -1,0 +1,201 @@
+{
+    "menu":{
+        "home":"Home",
+        "us":"Us",
+        "legal":"Legal",
+        "products":"Products & Services",
+        "faqs":"FAQs",
+        "contact":"Contact",
+        "client-area":"Client Area"
+    },
+    "main":{
+        "paragraph": "We provide facilities to make investing in ",
+        "paragraph-bold":"Paraguay simple and secure.",
+        "subparagraph":"Investment solutions tailored to the needs of each client",
+        "button":"Contact Us"
+    },
+    "portfolio":{
+        "title-coloured":"Innovate",
+        "title":"your investing way",
+        "subtitle1":"WHAT DO WE DO?",
+        "text1":"We are a Brokerage House that offers a full service. We give you access to a wide range of ",
+        "text1-bold1": "financial products and services",
+        "text1.2":", tailored to your particular needs. We act in ",
+        "text1-bold2":"local and international capital markets.",
+        "subtitle2":"OUR CLIENTS", 
+        "text2":"We work to identify financial instruments that adapt to the risk profile of our clients, whether they are ",
+        "text2-bold":"individuals, corporations, or institutions."
+    },
+    "offer":{
+        "title1":"PRODUCTS",
+        "subtitle1":"Our 360 offers",
+        "text1":"We offer access to financial products in local and international markets intending to diversify your investment portfolio.",
+        "button1":"See our products",
+        "title2":"SERVICES",
+        "subtitle2":"Consulting and Development",
+        "text2":"As a full-service Brokerage House, we provide you with advice from purchase to the subsequent evaluation and monitoring of the investors' portfolios.",
+        "button2":"See our services"
+    },
+    "info":{
+        "title":"Start investing today through",
+        "button":"Contact",
+        "address1":"Aviadores del Chaco AV 2050, ",
+        "address2":"Complejo World Trade Center Torre III, 11th floor",
+        "address3":"Asunción - Paraguay",
+        "mail":"info@greencapital.com.py",
+        "phone":"+(595)21 326 7085",
+        "disclaimer":"Green Capital Casa de Bolsa S.A. is an institution regulated and supervised by the Securities Superintendence of the Central Bank of Paraguay (SIV)",
+        "trademark":"© Green Capital, 2023.",
+        "help":"Help",
+        "priv-pol":"Privacy Policy",
+        "terms":"Terms and Conditions"
+    },
+    "main-us":{
+        "title":"ABOUT US",
+        "subtitle":"Learn more about",
+        "text":"We are a Brokerage House registered in the Asunción Stock Exchange (BVA) and the Superintendence of Securities - Central Bank of Paraguay (SIV) since 2023. Green Capital is authorized to trade in the local and international Stock Markets."
+    },
+    "solution":{
+        "title":"We provide tailored solutions that lead us to build long-term relationships with our clients.",
+        "subtitle":"We provide tailored solutions",
+        "text":"Our senior staff's professionalism, reliability, and experience led us to consolidate an independent, versatile Brokerage House with a presence in the local and international capital markets."
+    },
+    "history":{
+        "label":"ABOUT US",
+        "title":"Mission and Vision",
+        "text1":"Provide our individual and institutional clients with a professional service in managing their financial assets according to defined objectives, with high standards of ethics and professional aptitudes.",
+        "text2":"Develop and preserve a broad local presence and international prestige. Achieve long-term relationships with clients based on the appreciation of the quality and innovation of the financial solutions offered.",
+        "tag1":"Experience",
+        "tag2":"Commitment",
+        "tag3":"Growth"
+    },
+    "client":{
+        "label":"CLIENTS",
+        "title":"Who do we serve?",
+        "subtitle1":"Green Capital offers a wide range of services for all our customers, from individuals and small businesses to corporations and government entities.",
+        "subtitle2":"Results-oriented, we optimize portfolios based on the wide range of products offered by the financial market.",
+        "subtitle3":"In addition to providing an effective communication channel between advisors and clients to deliver financial solutions swiftly and accurately.",
+        "card1-title":"Individuals",
+        "card1-text":"Green Capital offers individual investors a personalized approach and a wide range of investment products to help them achieve their long-term financial goals.",
+        "card2-title":"Corporate",
+        "card2-text":"Through Green Capital, small business clients are confident of receiving a tailored investment solution that fits their corporate needs and business plans.",
+        "card3-title":"Institutions",
+        "card3-text":"Some businesses and organizations require specialized knowledge and capabilities from their financial institution in order to meet their goals. Green Capital has created experienced teams to serve clients in several distinct segments."
+    },
+    "team":{
+        "label":"ABOUT US",
+        "title":"Our team",
+        "name1":"Cr. Carlos Casarotti",
+        "pos1":"CEO",
+        "desc1":"CPA with a Business Administration degree (UDELAR – Uruguay). More than 20 years of experience in the stock market financial area. He served as a shareholder and member of the Montevideo Stock Exchange – Uruguay, developing trading activity in the purchase and sale of securities, portfolio management, financial advice, and custody services for corporate clients.",
+        "name2":"Lic. Sebastián Chocho",
+        "pos2":"COO",
+        "desc2":"Business Administration degree and CPA (UDESA – Argentina). Postgraduate in Business and Technology (UDESA – Argentina). Certified Trader (BVA – Paraguay).Ten years of experience in management, processes, and systems consulting with multinational clients in Argentina, Venezuela, Spain, Uruguay, and Paraguay. Since 2019 dedicated to the development and management of companies in Paraguay.",
+        "name3":"Cr. Camilo Calvelo",
+        "pos3":"CFO",
+        "desc3":"CPA (UDELAR – Uruguay). Postgraduate in Investment Portfolio Management (UM – Uruguay). Degree in Wealth Management and International Taxation (UCEMA – Argentina). Certified Trader (BVA – Paraguay). Since 2015 working in the financial sector, specifically in the capital markets. He has a long track record in advisory roles in corporate finance, company financial planning, cash flows, and evaluation of investment projects.",
+        "name4":"Ec. Emilia Bazzano",
+        "pos4":"CCO",
+        "desc4":"Graduate in Economics, (UDELAR – Uruguay) and Certified Trader (BVA – Paraguay). Master in Business Administration (EAE Business School – Spain). She has extensive experience in financial advice and consulting in various sectors, market research, preparation of business plans, cash flows, and evaluation of investment projects."
+    },
+    "main-legal":{
+        "label":"LEGAL",
+        "title":"Green Capital regulations and legal",
+        "subtitle":"Join Green Capital and start investing",
+        "text1":"Green Capital Casa de Bolsa S.A. is under supervision by ",
+        "link":"the Securities Superintendence of the Central Bank of Paraguay (SIV)",
+        "text2":" and registered according to resolution No. 117 _04072023 of the Securities Market Registry, Brokerage Houses Section. Inside its activity framework, the company acts in strict compliance with current legal regulations at the national and international guidelines. Our Compliance Dept. was created in order to guarantee the monitoring and application of national and international regulations, internal policies, and best practices."
+    },
+    "pdfs":{
+        "link1":"SIV Enrollment",
+        "link2":"SIV Authorization",
+        "link3":"Ethics Code",
+        "link4":"Compliant Policies",
+        "link5":"Asunción Stock Exchange Enrollment",
+        "link6":"Asunción Stock Exchange Share Certificate"
+    },
+    "campaign": {
+        "label": "CAMPAIGN",
+        "title": "Campaign 'We Contribute'",
+        "text1": "Through Decree 508/2018 and SIV/DIF Circular No. 028/2020, October 29th of each year is declared as the 'National Day for the Prevention of Money Laundering, Responsible and Safe Business Practices.'",
+        "text2": "The campaign 'We Contribute,' led by the United Nations Office on Drugs and Crime (UNODC), focusing on the Prevention of Money Laundering, is hereby declared of national interest, and October 29th of each year is established as a day for raising awareness and educating Paraguayan society on Anti-Money Laundering (AML) matters.",
+        "text3": "We would like to inform you that the aforementioned Decree and the audiovisual materials commemorating this occasion are accessible through the following links:",
+        "link": "AML/CFT System"
+    },
+    "balances": {
+        "label": "BALANCES",
+        "title": "Financial Statements",
+        "link": "Click to download",
+        "balance1": "12.31.2022 - Green Capital",
+        "balance2": "06.30.2023 - Green Capital",
+        "balance3": "09.30.2023 - Green Capital",
+        "balance4": "12.31.2023 - Green Capital",
+        "balance5": "03.31.2024 - Green Capital",
+        "balance6": "30.06.2024 - Green Capital",
+        "link1": "The Financial Statements of Green Capital could also be checked in the SIV website by clicking ",
+        "link2": "here"
+    },
+    "main-product":{
+        "label":"PRODUCTS & SERVICES",
+        "title":"A Broker you can trust is the most efficient way to invest.",
+        "subtitle":"Join Green Capital and start investing"
+    },
+    "detail-prod":{
+        "label":"PRODUCTS",
+        "title":"Financial markets specialists",
+        "subtitle":"We believe in the local capital market of Paraguay and also in the diversification principle. As a result, through our brokerage house, we offer the possibility of investing in:",
+        "prod1":"Equities (local and foreign)",
+        "prod2":"Sovereign and Corporate Bonds (local and foreign)",
+        "prod3":"Options",
+        "prod4":"CDAs",
+        "prod5":"ETFs",
+        "prod6":"Mutual Funds and Investment Funds (local and foreign)",
+        "prod7":"Trusts",
+        "prod8":"Alternative Investments (Real Estate)",
+        "epigraph":"In addition to market access, we carry out the custody of securities and the payment of dividends and financial income services. Trade multiple asset classes with the full breadth of execution, clearing, custody & technology services."
+    },
+    "detail-serv":{
+        "label":"SERVICES",
+        "title":"Controlled and followed by your financial advisor.",
+        "subtitle":"Our services are designed to give you the freedom and flexibility to be in control of your investments.",
+        "serv1-title":"Trading Desk",
+        "serv1-text":"We have professional traders certified by the Asunción Stock Exchange. We offer order execution services in fixed income (sovereign and private securities), equities (stocks and ETFs) as well as investment funds and mutual funds.",
+        "serv2-title":"Custody",
+        "serv2-text":"We provide custody services for all asset classes. We have access to Paraguay's local market and hold custody and settlement agreements with the most reliable institutions in the financial industry internationally.",
+        "serv3-title":"Consulting",
+        "serv3-text":"We offer comprehensive advice to individuals and companies seeking to access the stock exchanges and over-the-counter markets. We manage those entities that wish to list on the Stock Exchange by promoting the launch of public and private issues and their placement on the market."
+    },
+    "main-faqs":{
+        "label":"FAQ'S",
+        "title":"Everything you should know about Green Capital",
+        "subtitle":"Join Green Capital and start investing"
+    },
+    "faqs":{
+        "label":"FAQs",
+        "title":"Frequently Asked Questions",
+        "ques1":"Why trade through Green Capital?",
+        "ans1":"As a registered Brokerage House, Green Capital adheres to the highest standards and practices recommended by the market, and operations fall under the scope of the Superintendence of Securities - Central Bank of Paraguay (SIV). This includes the use of the latest available technology to safeguard your data.",
+        "ques2":"Which requirements apply to open an account?",
+        "ans2":"The requirements for opening an account vary depending on whether it is an individual or an entity. In the case of legal entities, depending on the corporate nature, documentation that proves both its formation and the identity and address of its representatives will be required. In addition to this, a declaration of a politically exposed person will be required by the SIV.",
+        "ques3":"Is there any minimum balance for trading?",
+        "ans3":"The minimum amount required to operate is USD 10,000 or its equivalent in guaraníes or other currencies.",
+        "ques4":"What fees apply for trading?",
+        "ans4":"To request the current chart, please complete the contact form, and a representative from Green Capital will respond to your inquiry.",
+        "ques5":"Should I open an account to trade only one time?",
+        "ans5":"For security reasons, all operations are carried out by registered clients."
+    },
+    "main-cont":{
+        "label":"CONTACT",
+        "title":"We put our communication channels at your disposal to help you resolve any questions or matters.",
+        "subtitle":"Green Capital Casa de Bolsa S.A. is an institution regulated and supervised by the Superintendency of Securities - Central Bank of Paraguay (SIV)."
+    },
+    "form":{
+        "label":"CONTACT",
+        "title":"Contact Us",
+        "name":"Name",
+        "email":"E-mail",
+        "phone":"Phone",
+        "msg":"Message",
+        "send":"Send"
+    }
+}

@@ -58,6 +58,19 @@ a:hover{
     color: #181531;
 }
 
+.nav-link li button.lang-btn{
+    background-color: #18153179;
+    color:white;
+    border: none;
+    padding: 5px 15px 5px 15px;
+    border-radius: 20px;
+    font-weight: 600;
+}
+
+.nav-link li button.lang-btn:focus{
+    outline:none
+}
+
 .content-container{
     margin: 60px 20px 0px 70px;
     padding: 30px 40px 30px 40px;

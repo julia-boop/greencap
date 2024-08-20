@@ -1,15 +1,18 @@
 import React from 'react'
 import './Offer.css'
+import {useTranslation} from 'react-i18next';
 
 export default function Offer() {
+    const {t} = useTranslation();
+
     return (
         <div className="main-container-o">
             <div className="offer-container">
                 <div className="offer-items">
-                    <h5>PRODUCTOS</h5>
-                    <h1>Nuestra oferta 360</h1>
-                    <h6>Ofrecemos acceso a los productos financieros tanto en el mercado local como en el internacional, con el fin de diversificar su portafolio de inversiones. </h6>
-                    <button> <a href="/product"> Ver productos </a></button>
+                    <h5>{t('offer.title1')}</h5>
+                    <h1>{t('offer.subtitle1')}</h1>
+                    <h6>{t('offer.text1')}</h6>
+                    <button> <a href="/product">{t('offer.button1')}</a></button>
                 </div>
                 <div className="offer-img-container">
                     <img src="/items/frame3.png" alt="some"></img>
@@ -20,10 +23,10 @@ export default function Offer() {
                     <img src="/items/frame4.png" alt="img"></img>
                 </div>
                 <div className="service-items">
-                    <h5>SERVICIOS</h5>
-                    <h1>Consultoría y Desarrollo</h1>
-                    <h6>Nuestro servicio es integral desde la asesoría de compra hasta la posterior evaluación y seguimiento del portafolio de los inversores.</h6>
-                    <button> <a href="/product"> Ver servicios </a></button>
+                    <h5>{t('offer.title2')}</h5>
+                    <h1>{t('offer.subtitle2')}</h1>
+                    <h6>{t('offer.text2')}</h6>
+                    <button> <a href="/product">{t('offer.button2')}</a></button>
                 </div>
             </div>
         </div>

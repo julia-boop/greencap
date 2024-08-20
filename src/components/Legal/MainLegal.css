@@ -50,6 +50,19 @@
     color: #181531;
 }
 
+.nav-link-legal li button.lang-btn{
+    background-color: #ffffff25;
+    color:white;
+    border: none;
+    padding: 5px 15px 5px 15px;
+    border-radius: 20px;
+    font-weight: 600;
+}
+
+.nav-link-legal li button.lang-btn:focus{
+    outline:none
+}
+
 .legal-container{
     width: 60%;
     padding: 100px 50px 100px 100px;

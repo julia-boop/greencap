@@ -1,0 +1,22 @@
+{
+    "menu":{
+        "home":"Inicio",
+        "us":"Nosotros",
+        "legal":"Legal",
+        "products":"Productos",
+        "faqs":"FAQs",
+        "contact":"Contacto",
+        "client-area":"Área Clientes"
+    },
+    "main":{
+        "us":"Nosotros",
+        "legal":"Legal",
+        "products":"Productos",
+        "faqs":"FAQs",
+        "contact":"Contacto",
+        "client-area":"Área Clientes",
+        "paragraph": "Brindamos herramientas para que invertir en <b>Paraguay</b> sea <b>simple y seguro.</b>",
+        "subparagraph":"Soluciones y alternativas a medida de las necesidades de cada cliente",
+        "button":"Contáctanos"
+    }
+}

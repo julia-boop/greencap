@@ -1,7 +1,14 @@
-import React from 'react'
+import React, {useContext} from 'react'
 import './MainContact.css'
+import {useTranslation} from 'react-i18next';
+import {LanguageContext} from '../../LanguageContext';
 
 export default function MainContact() {
+
+    const {t} = useTranslation();
+
+    const { language, toggleLanguage } = useContext(LanguageContext);
+
     return (
     <div className="main-container-cont">
         <div className="nav-container-cont">
@@ -11,24 +18,26 @@ export default function MainContact() {
                 </a>
             </div>
             <div className="nav-link-container-cont">
-                <ul className="nav-link-us">
-                    <li> <a href="/us"> Nosotros </a> </li>
-                    <li> <a href="/legal"> Legal </a> </li>
-                    <li> <a href="/product"> Productos & Servicios </a> </li>
-                    <li> <a href="/faqs"> FAQs </a> </li>
-                    <li id="contact"> <a href="/contact"> Contacto </a> </li>
-                    <li id="contact"> <a href="http://app.greencapital.com.py/greenhb17/wplogin.aspx"> Área Clientes </a> </li>
+                <ul className="nav-link-cont">
+                       <li> <a href="/legal"> {t('menu.legal')} </a> </li>
+                        <li> <a href="/product"> {t('menu.products')} </a> </li>
+                        <li> <a href="/faqs"> {t('menu.faqs')} </a> </li>
+                        <li id="contact-a"> <a href="/contact"> {t('menu.contact')} </a> </li>
+                        <li id="contact"> <a href="http://app.greencapital.com.py/greenhb17/wplogin.aspx"> {t('menu.client-area')} </a> </li>
+                        <li>
+                            <button className="lang-btn" onClick={toggleLanguage}>{language === 'es' ? 'English' : 'Español'}</button>
+                        </li>
                 </ul>
             </div>
         </div>
         <div className="cont-container">
-            <h5>CONTACTO</h5>
+            <h5>{t('main-cont.label')}</h5>
             <div className="cont-know-more">
-                <h1>Ponemos a su disposición nuestros canales de comunicación para ayudarle a solucionar cualquier duda.</h1>
+                <h1>{t('main-cont.title')}</h1>
             </div>
             <div className="cont-join">
                 <img src="/items/logo2.png" alt="logo"></img>
-                <h4>Green Capital Casa de Bolsa S.A. es una institución regulada y supervisada por la Superintendencia de Valores - Banco Central del Paraguay (SIV)</h4>
+                <h4>{t('main-cont.subtitle')}</h4>
             </div>
         </div>
     </div>

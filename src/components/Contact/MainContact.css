@@ -40,14 +40,38 @@
     color: #14C38E;
 }
 
+.nav-link-cont li a#active-b{
+    text-shadow: 0px 1px 5px black;
+}
+
 .nav-link-cont li#contact{
     background-color:#A0ECCE;
     border-radius: 20px;
     padding: 5px 15px 5px 15px;
 }
 
-.nav-link-cont li#contact a {
+.nav-link-cont li#contact-a{
+    background-color:#A0ECCE;
+    border-radius: 20px;
+    padding: 5px 15px 5px 15px;
+    border: 2px solid white;
+}
+
+.nav-link-cont li#contact a , .nav-link-cont li#contact-a a{
     color: #181531;
+}
+
+.nav-link-cont li button.lang-btn{
+    background-color: #ffffff25;
+    color:white;
+    border: none;
+    padding: 5px 15px 5px 15px;
+    border-radius: 20px;
+    font-weight: 600;
+}
+
+.nav-link-cont li button.lang-btn:focus{
+    outline:none!important
 }
 
 .cont-container{
@@ -107,7 +131,7 @@
 
     .cont-container{
         width: 100%;
-        padding: 80px;
+        padding: 70px;
         text-align: center;
     }
 

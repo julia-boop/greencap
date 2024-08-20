@@ -1,13 +1,16 @@
 import React from 'react'
 import './Info.css'
+import {useTranslation} from 'react-i18next';
 
 export default function Info() {
+    const {t} = useTranslation();
+
     return (
         <div>
             <div className="learn-more-container">
-                <h1>Empezá a invertir hoy a través de</h1>
+                <h1>{t('info.title')}</h1>
                 <img src="/items/logo3.png" alt="logo"></img>
-                <button> <a href="/contact"> Contacto </a></button>
+                <button> <a href="/contact">{t('info.button')}</a></button>
             </div>
             <div className="info-container">
                 <div className="info-img-container">
@@ -15,18 +18,15 @@ export default function Info() {
                 </div>
                 <div className="info-text-container">
                     <div className="info-items">
-                        <p id="u">Contacto</p>
-                        <p>Av. Aviadores del Chaco 2050, <br></br> Complejo World Trade Center Torre III, Piso 11 <br></br> <b>Asunción - Paraguay</b></p>
+                        <p id="u">{t('info.button')}</p>
+                        <p> {t('info.address1')} <br></br> {t('info.address2')} <br></br> <b> {t('info.address3')} </b></p>
                         <br></br>
-                        <p>info@greencapital.com.py <br></br>+(595)21 326 7085</p>
+                        <p>{t('info.mail')} <br></br>{t('info.phone')}</p>
                     </div>
                     <div className="info-items">
-                        <p id="desc">Green Capital Casa de Bolsa S.A. es una institución regulada y supervisada por la Superintendencia de Valores - Banco Central de Paraguay (SIV)</p>
-                        {/* <p id="u">Ayuda</p>
-                        <p id="u">Politicas de Privacidad</p>
-                        <p id="u">Terminos y Condiciones</p> */}
+                        <p id="desc">{t('info.disclaimer')}</p>
                         <br></br>
-                        <p id="trademark">© Green Capital, 2023.</p>
+                        <p id="trademark">{t('info.trademark')}</p>
                     </div>                        
                 </div>
             </div>

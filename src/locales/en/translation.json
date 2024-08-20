@@ -1,0 +1,22 @@
+{
+    "menu":{
+        "home":"Home",
+        "us":"Us",
+        "legal":"Legal",
+        "products":"Products & Services",
+        "faqs":"FAQs",
+        "contact":"Contact",
+        "client-area":"Client Area"
+    },
+    "main":{
+        "us":"Us",
+        "legal":"Legal",
+        "products":"Products & Services",
+        "faqs":"FAQs",
+        "contact":"Contact",
+        "client-area":"Client Area",
+        "paragraph": "We provide facilities to make investing in <b>Paraguay simple and secure.</b> ",
+        "subparagraph":"Investment solutions tailored to the needs of each client",
+        "button":"Contact Us"
+    }
+}

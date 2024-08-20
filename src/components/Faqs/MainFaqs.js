@@ -1,7 +1,14 @@
-import React from 'react'
-import './MainFaqs.css'
+import React, {useContext} from 'react';
+import './MainFaqs.css';
+import {useTranslation} from 'react-i18next';
+import {LanguageContext} from '../../LanguageContext'
 
 export default function MainFaqs() {
+
+    const {t} = useTranslation();
+
+    const { language, toggleLanguage } = useContext(LanguageContext);
+
     return (
     <div className="main-container-faq">
         <div className="nav-container-faq">
@@ -11,23 +18,26 @@ export default function MainFaqs() {
                 </a>            </div>
             <div className="nav-link-container-faq">
                 <ul className="nav-link-us">
-                    <li> <a href="/us"> Nosotros </a> </li>
-                    <li> <a href="/legal"> Legal </a> </li>
-                    <li> <a href="/product"> Productos & Servicios </a> </li>
-                    <li> <a id="active" href="/faqs"> FAQs </a> </li>
-                    <li id="contact"> <a href="/contact"> Contacto </a> </li>
-                    <li id="contact"> <a href="http://app.greencapital.com.py/greenhb17/wplogin.aspx"> Área Clientes </a> </li>
+                <li> <a href="/us"> {t('menu.us')} </a> </li>
+                        <li> <a href="/legal"> {t('menu.legal')} </a> </li>
+                        <li> <a href="/product"> {t('menu.products')} </a> </li>
+                        <li> <a id="active" href="/faqs"> {t('menu.faqs')} </a> </li>
+                        <li id="contact"> <a href="/contact"> {t('menu.contact')} </a> </li>
+                        <li id="contact"> <a href="http://app.greencapital.com.py/greenhb17/wplogin.aspx"> {t('menu.client-area')} </a> </li>
+                        <li>
+                            <button className="lang-btn" onClick={toggleLanguage}>{language === 'es' ? 'English' : 'Español'}</button>
+                        </li>
                 </ul>
             </div> 
         </div>
         <div className="faq-container">
-            <h5>FAQ'S</h5>
+            <h5>{t('main-faqs.label')}</h5>
             <div className="faq-know-more">
-                <h1>Todo lo que necesitas saber acerca de Green Capital</h1>
+                <h1>{t('main-faqs.title')}</h1>
             </div>
             <div className="faq-join">
                 <img src="/items/logo2.png" alt="logo"></img>
-                <h4>Únete a la red de Green Capital y comienza a invertir.</h4>
+                <h4>{t('main-faqs.subtitle')}</h4>
             </div>
         </div>
     </div>

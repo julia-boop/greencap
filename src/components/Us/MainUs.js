@@ -1,7 +1,14 @@
-import React from 'react'
+import React, {useContext} from 'react'
 import './MainUs.css'
+import {useTranslation} from 'react-i18next';
+import {LanguageContext} from '../../LanguageContext'
 
 export default function MainUs() {
+
+    const {t} = useTranslation();
+
+    const { language, toggleLanguage } = useContext(LanguageContext);
+  
     return (
         <div className="main-container-us">
             <div className="nav-container-us">
@@ -11,24 +18,27 @@ export default function MainUs() {
                     </a>                </div>
                 <div className="nav-link-container-us">
                     <ul className="nav-link-us">
-                        <li> <a id="active" href="/us"> Nosotros </a> </li>
-                        <li> <a href="/legal"> Legal </a> </li>
-                        <li> <a href="/product"> Productos & Servicios </a> </li>
-                        <li> <a href="/faqs"> FAQs </a> </li>
-                        <li id="contact"> <a href="/contact"> Contacto </a> </li>
-                        <li id="contact"> <a href="http://app.greencapital.com.py/greenhb17/wplogin.aspx"> Área Clientes </a> </li>
+                        <li> <a id="active" href="/us">{t('menu.us')}</a> </li>
+                        <li> <a href="/legal"> {t('menu.legal')} </a> </li>
+                        <li> <a href="/product"> {t('menu.products')} </a> </li>
+                        <li> <a href="/faqs"> {t('menu.faqs')} </a> </li>
+                        <li id="contact"> <a href="/contact"> {t('menu.contact')} </a> </li>
+                        <li id="contact"> <a href="http://app.greencapital.com.py/greenhb17/wplogin.aspx"> {t('menu.client-area')} </a> </li>
+                        <li>
+                            <button className="lang-btn" onClick={toggleLanguage}>{language === 'es' ? 'ENG' : 'ESP'}</button>
+                        </li>
                     </ul>
                 </div>
             </div>
             <div className="about-container">
-                <h5>ACERCA DE NOSOTROS</h5>
+                <h5>{t('main-us.title')}</h5>
                 <div className="know-more">
-                    <h1>Conocé a </h1>
+                    <h1>{t('main-us.subtitle')}</h1>
                     <img src="/items/logo1-us.png" alt="logo"></img>
                 </div>
                 <div className="join">
                     <img src="/items/logo2.png" alt="logo"></img>
-                    <h4>Somos una Casa de Bolsa inscripta en la Bolsa de Valores de Asunción (BVA) y en la Superintendencia de Valores - Banco Central de Paraguay (SIV) desde el año 2023. Green Capital se encuentra autorizada para operar en el Mercado de Valores local e internacional.</h4>
+                    <h4>{t('main-us.text')}</h4>
                 </div>
             </div>
         </div>
