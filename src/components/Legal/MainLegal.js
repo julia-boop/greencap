@@ -7,7 +7,12 @@ function MainLegal() {
 
     const {t} = useTranslation();
 
-    const { language, toggleLanguage } = useContext(LanguageContext);
+    const { language, setLanguage } = useContext(LanguageContext);
+
+    const toggleLanguage = () => {
+      const newLanguage = language === 'es' ? 'en' : 'es';
+      setLanguage(newLanguage);
+    };
 
     return (
         <div className="main-container-legal">
