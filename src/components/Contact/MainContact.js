@@ -25,7 +25,7 @@ export default function MainContact() {
                         <li id="contact-a"> <a href="/contact"> {t('menu.contact')} </a> </li>
                         <li id="contact"> <a href="http://app.greencapital.com.py/greenhb17/wplogin.aspx"> {t('menu.client-area')} </a> </li>
                         <li>
-                            <button className="lang-btn" onClick={toggleLanguage}>{language === 'es' ? 'English' : 'Español'}</button>
+                            <button className="lang-btn" onClick={toggleLanguage}>{language === 'es' ? 'ENG' : 'ESP'}</button>
                         </li>
                 </ul>
             </div>
