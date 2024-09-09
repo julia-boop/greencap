@@ -24,7 +24,7 @@
         "text1-bold2":"local and international capital markets.",
         "subtitle2":"OUR CLIENTS", 
         "text2":"We work to identify financial instruments that adapt to the risk profile of our clients, whether they are ",
-        "text2-bold":"individuals, corporations, or institutions."
+        "text2-bold":"individuals, corporations or institutions."
     },
     "offer":{
         "title1":"PRODUCTS",
@@ -63,18 +63,18 @@
     "history":{
         "label":"ABOUT US",
         "title":"Mission and Vision",
-        "text1":"Provide our individual and institutional clients with a professional service in managing their financial assets according to defined objectives, with high standards of ethics and professional aptitudes.",
-        "text2":"Develop and preserve a broad local presence and international prestige. Achieve long-term relationships with clients based on the appreciation of the quality and innovation of the financial solutions offered.",
+        "text1":"Provide our individual and institutional clients a professional service in managing their financial assets according to defined objectives, with high standards of ethics and professional aptitudes.",
+        "text2":"Develop and preserve a wide local presence and international prestige. Achieve long-term relationships with clients based on the recognition of quality and innovation of financial solutions offered.",
         "tag1":"Experience",
         "tag2":"Commitment",
         "tag3":"Growth"
     },
     "client":{
         "label":"CLIENTS",
-        "title":"Who do we serve?",
-        "subtitle1":"Green Capital offers a wide range of services for all our customers, from individuals and small businesses to corporations and government entities.",
+        "title":"Who trusts us?",
+        "subtitle1":"We work to identify financial instruments that best adapt to client’s investment profiles.",
         "subtitle2":"Results-oriented, we optimize portfolios based on the wide range of products offered by the financial market.",
-        "subtitle3":"In addition to providing an effective communication channel between advisors and clients to deliver financial solutions swiftly and accurately.",
+        "subtitle3":"We also offer an effective communication channel between advisors and clients to give financial solutions quickly and accurately.",
         "card1-title":"Individuals",
         "card1-text":"Green Capital offers individual investors a personalized approach and a wide range of investment products to help them achieve their long-term financial goals.",
         "card2-title":"Corporate",
@@ -159,9 +159,9 @@
         "title":"Controlled and followed by your financial advisor.",
         "subtitle":"Our services are designed to give you the freedom and flexibility to be in control of your investments.",
         "serv1-title":"Trading Desk",
-        "serv1-text":"We have professional traders certified by the Asunción Stock Exchange. We offer order execution services in fixed income (sovereign and private securities), equities (stocks and ETFs) as well as investment funds and mutual funds.",
+        "serv1-text":"“Our team is made up of professional traders certified by the Asunción Stock Exchange. We offer order execution services in fixed income (sovereign and private securities), equities (stocks and ETFs) as well as investment funds and mutual funds.",
         "serv2-title":"Custody",
-        "serv2-text":"We provide custody services for all asset classes. We have access to Paraguay's local market and hold custody and settlement agreements with the most reliable institutions in the financial industry internationally.",
+        "serv2-text":"We provide custody services for all asset classes. We have access to Paraguay's local market and hold custody and settlement agreements with the most reliable international institutions in the financial industry.",
         "serv3-title":"Consulting",
         "serv3-text":"We offer comprehensive advice to individuals and companies seeking to access the stock exchanges and over-the-counter markets. We manage those entities that wish to list on the Stock Exchange by promoting the launch of public and private issues and their placement on the market."
     },
@@ -178,9 +178,9 @@
         "ques2":"Which requirements apply to open an account?",
         "ans2":"The requirements for opening an account vary depending on whether it is an individual or an entity. In the case of legal entities, depending on the corporate nature, documentation that proves both its formation and the identity and address of its representatives will be required. In addition to this, a declaration of a politically exposed person will be required by the SIV.",
         "ques3":"Is there any minimum balance for trading?",
-        "ans3":"The minimum amount required to operate is USD 10,000 or its equivalent in guaraníes or other currencies.",
+        "ans3":"The minimum amount required to operate is USD 10,000 or its equivalent in guaranies or other currencies.",
         "ques4":"What fees apply for trading?",
-        "ans4":"To request the current chart, please complete the contact form, and a representative from Green Capital will respond to your inquiry.",
+        "ans4":"To request the current fees, please complete the contact form, and a representative from Green Capital will respond to your inquiry.",
         "ques5":"Should I open an account to trade only one time?",
         "ans5":"For security reasons, all operations are carried out by registered clients."
     },
