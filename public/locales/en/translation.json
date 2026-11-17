@@ -197,5 +197,11 @@
         "phone":"Phone",
         "msg":"Message",
         "send":"Send"
+    },
+    "security-banner":{
+        "badge":"Security alert",
+        "text":"Fraud attempts using the Green Capital name have been detected. Make sure you are on greencapital.com.py.",
+        "link":"Official contact",
+        "close":"Close notice"
     }
 }

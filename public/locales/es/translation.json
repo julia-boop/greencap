@@ -138,6 +138,9 @@
         "balance4":"31.12.2023 - Green Capital",
         "balance5":"31.03.2024 - Green Capital",
         "balance6":"30.06.2024 - Green Capital",
+        "balance7":"31.12.2025 - Green Capital",
+        "balance8":"31.03.2026 - Green Capital",
+        "balance9":"30.06.2026 - Green Capital",
         "link1":"Los Estados Financieros de Green Capital CBSA pueden ser consultados tambien haciendo click ",
         "link2":"aquí"
     },
@@ -203,5 +206,11 @@
         "phone":"Telefono",
         "msg":"Mensaje",
         "send":"Enviar"
+    },
+    "security-banner":{
+        "badge":"Alerta de seguridad",
+        "text":"Se detectaron intentos de fraude con el nombre de Green Capital. Verifique que se encuentra en greencapital.com.py.",
+        "link":"Contacto oficial",
+        "close":"Cerrar aviso"
     }
 }

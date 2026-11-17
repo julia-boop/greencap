@@ -1,6 +1,6 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faFilePdf } from '@fortawesome/free-solid-svg-icons';
+import { faFilePdf, faFileExcel } from '@fortawesome/free-solid-svg-icons';
 import './Balances.css';
 import {useTranslation} from 'react-i18next';
 
@@ -40,6 +40,18 @@ function Balances() {
                     <FontAwesomeIcon icon={faFilePdf} size="xl"/>
                     <a href="/balances/30-06-2024.zip" 
                     download>{t('balances.balance6')}</a>
+                </div>
+                <div className="balance-item">
+                    <FontAwesomeIcon icon={faFilePdf} size="xl"/>
+                    <a href="/balances/31-12-2025.pdf" download>{t('balances.balance7')}</a>
+                </div>
+                <div className="balance-item">
+                    <FontAwesomeIcon icon={faFileExcel} size="xl"/>
+                    <a href="/balances/31-03-2026.xlsx" download>{t('balances.balance8')}</a>
+                </div>
+                <div className="balance-item">
+                    <FontAwesomeIcon icon={faFileExcel} size="xl"/>
+                    <a href="/balances/30-06-2026.xlsx" download>{t('balances.balance9')}</a>
                 </div>
             </div>
             <div className="siv-legal-container">
